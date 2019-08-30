@@ -1,0 +1,455 @@
+id,newspaper_id,content,label,RandomForest_tfidf_label,RandomForest_word2vec_label,LogisticRegression_tfidf_label,LogisticRegression_word2vec_label,Gaussian_tfidf_label,Gaussian_word2vec_label,isTrain,average_label
+126949,2649,"Hiền bị_cáo buộc sát_hại tài_xế xe_ôm ở khu vườn dưới chân núi Bà Đen ( Tây_Ninh ) và bị tuyên_án tử_hình .
+",1,1,2,2,2,2,-1,2,2
+126964,2650,"Thấy vậy bà Kim Th. vào can_ngăn , cũng bị Phước đâm gây thương_tích .
+",1,1,2,2,2,2,-1,2,2
+127008,2653,"Khả_năng rằng thi_thể nạn_nhân được vùi lấp dưới đất cho_đến_khi bị dòng_chảy của con_suối làm phát lộ sau những những cơn_mưa lớn.Cảnh sát quyết_định khởi_tố vụ_án với nhận_định đây có_thể là một vụ_án mạng kinh_hoàng , nạn_nhân bị sát_hại ở một nơi khác rồi mang đến khu_vực này để phi_tang .
+",1,1,2,2,2,2,2,2,2
+127099,2660,"Bực_tức vì bạn gái bị chọc_ghẹo nên anh Tài lao xe đến để  nhắc_nhở  .Hiện truờng nơi xảy_ra vụ việc.  Lúc_đó nhóm khoảng 4 – 5 thanh_niên đi_bộ ngang qua rồi buông_lời chọc_ghẹo tôi nên anh Tài bực_tức lao xe_máy vào nhóm người này nhưng bị té_ngã .
+",1,1,2,2,2,2,-1,2,2
+127100,2660,"Sau_đó bị nhóm thanh_niên trên lao_vào đánh anh khiến anh phải bỏ_chạy thoát_thân  , chị O . kể lại.Theo chị O. , khi anh Tài bị té_ngã , chị tưởng nhóm thanh_niên trên đến đỡ xe dậy nhưng không_ngờ họ lao_vào đánh hội_đồng tới tấp nạn_nhân .
+",1,1,2,2,2,2,-1,2,2
+127101,2660,"Lúc_này chị O . có cầu_xin và kêu_cứu nhưng nhóm thanh_niên hung_dữ vẫn tiếp_tục đánh anh Tài.Sau đó anh Tài bỏ_chạy qua_đường , vào một cửa_hàng quần_áo trốn .
+",1,1,2,2,2,2,2,2,2
+127121,2662,"Ra cổng tôi thấy N . đang đứng , tay bịt vết_thương ở cổ , áo_quần đầm_đìa máu .
+",1,1,2,2,2,2,2,2,2
+127144,2664,"Đang diễn_ra bữa_ăn thì Nguyễn_Anh_Tú và Phạm_Trung_Hiếu ( 27 tuổi ) là hai khách_mời xảy_ra mâu_thuẫn cá_nhân dẫn tới xô xát.Tú rút một khẩu súng_ngắn dọa bắn Hiếu thì Hồ_Viết_Công_ngồi cùng mâm xông vào can_ngăn giằng được khẩu súng và bắn 5 phát lên trần_nhà khiến nhiều người có_mặt tại quán chạy tán loạn.     Nhằm xóa dấu_vết , nhóm người tham_gia bữa_tiệc của Tuấn cùng nhặt vỏ đạn , xóa_dữ_liệu camera an_ninh của nhà_hàng .
+",1,1,2,2,2,2,-1,2,2
+127146,2664,"Bênh Tuấn , Hồ_Viết_Công xông vào giằng kéo đâm An.Hỗn loạn đỉnh_điểm khi hai người_khác ( chưa rõ danh_tính ) dùng súng sắn nhiều phát vào đám_đông làm hai người đứng xem trúng đạn_lạc , bị_thương nhẹ.Hồ Viết_Công và Nguyễn_Anh_Tú sau_đó bị bắt.Trốn trại_giam ở Tiền_Giang , bị hình_sự_quận 9 bắt giữNgày 11 , Công_an quận 9 cho_biết đã bàn_giao Nguyễn_Hoàng_Sơn ( 34 tuổi , ngụ ở huyện Châu_Thành , tỉnh   Tiền_Giang ) cho các cán_bộ tại Trại_giam Mỹ Phước ( tỉnh Tiền_Giang ) .Sơn trốn khỏi trại_giam ngày 25122018 , bị truy_nã một ngày_sau đó.Qua công_tác trinh_sát địa_bàn , hình_sự_quận 9 đã phát_hiện một người có biểu_hiện nghi_vấn đang ở tại một ngôi_nhà không số trên đường Long Phước , phường Long_Phước , quận 9.Nguyễn Hoàng Sơn tại hiện_trường , khi bị trinh_sát hình_sự công_an quận 9 vây bắt.Đối chiếu với thông_tin , trinh_sát hình sự_Công_an quận 9 xác_định người này giống với Nguyễn_Hoàng_Sơn đang bị truy nã.Ngay sau_khi xác_định nghi can , hình_sự_quận 9 bao_vây căn_nhà mà Sơn đang trú_ẩn .
+",1,1,2,2,2,2,-1,2,2
+127162,2666,"Thông_tin mới nhất trên Vnexpress và Người lao_động cho_hay sau 2 ngày xét_xử , ngày 211 , Tòa phúc_thẩm TAND tỉnh Thái_Nguyên đã quyết_định tuyên_án đối_với 2 bị_cáo Ngô_Văn_Sơn ( 40 tuổi , quê tại huyện Yên_Phong , tỉnh Bắc_Ninh ) 9 năm tù và Lê_Ngọc_Hoàng ( 33 tuổi , quê tại huyện Đông_Hưng , tỉnh Thái_Bình ) 6 năm tù cùng về tội vi_phạm quy_định về điều_khiển phương_tiện giao_thông đường bộ.",1,1,1,1,0,0,-1,2,0.5
+127163,2666,"Do xe vượt_quá lối_ra khỏi cao_tốc tại nút giao Yên_Bình ( thị_xã Phổ_Yên ) , Sơn đã cho ô_tô đi lùi , sát hàng_rào bên phải.Tài xế Sơn và Hoàng_tại phiên_tòa phúc_thẩm .
+",1,1,0,2,0,2,-1,2,1
+127169,2666,"Tuy_nhiên , xét_thấy bị_cáo Sơn có thêm tình_tiết mới là cha có_nhiều huân huy_chương , đã tích_cực bồi_thường cho gia_đình bị hại .
+",1,1,0,1,0,1,-1,2,0.5
+127313,2678,"Nghi phạm đã vào Ban Chỉ_huy quân_sự phường_phá tủ_sắt lấy 2 khẩu súng_trường Garand cùng hai băng_đạn với tổng_cộng 16 viên rồi lắp vào.Phó ban_chỉ_huy quân_sự_phường cầm hai khẩu súng đi_vào hội_trường của UBND phường , bắn một phát_súng chỉ thiên.Chị Kpă H ' Ven gần 20 cán_bộ đang họp giao_ban sau giờ chào_cờ đầu tuần hoảng_sợ bỏ_chạy tán loạn.     Hiếu đuổi_theo chị H ' Ven đến gần phòng tiếp dân , bắn một phát nhưng không trúng , viên_đạn đã bay xuyên_qua bức_tường của siêu_thị kế_bên .
+",1,1,2,2,2,2,2,2,2
+127314,2678,"Nữ lãnh_đạo phường hoảng_sợ đứng_lại , bị Hiếu dùng súng uy_hiếp buộc quay_lại hội trường.Hàng chục Công_an thị_xã Ayun Pa , được trang_bị áo chống_đạn , có_mặt bao_vây xung_quanh , phong_tỏa các ngả_đường .
+",1,1,2,2,2,2,-1,2,2
+127319,2678,"Các dụng_cụ này do Hiếu mang từ nhà đến để phá tủ_sắt lấy súng gây án.Hiện cơ_quan điều_tra vẫn tiếp_tục tìm_kiếm 2 viên_đạn còn_lại , đồng_thời củng_cố hồ_sơ để khởi_tố bị can.Như thông_tin trước_đó trên báo Tri_thức trực_tuyến cho_hay khoảng 7h sáng 312 , Bùi_Chí_Hiếu mang theo súng xông vào trụ_sở UBND phường Đoàn_Kết bắn 2 phát rồi khống_chế bà Kpah H ’ Ven ( Phó_chủ_tịch HĐND phường Đoàn_Kết ) đưa_vào hội trường.Ngay sau_đó , Công_an thị_xã Ayun Pa cử 40 cán_bộ , chiến_sĩ phong_tỏa hiện_trường ; vận_động , thuyết_phục , tìm_cách giải_cứu con_tin .
+",1,1,2,2,2,2,-1,2,2
+127401,2683,"Hai nghi can cướp bị cuốn vào câu_chuyện , không_biết các trinh_sát khác đã kịp_thời bố_trí vây từ xa.     Bất_ngờ , thượng_tá Huấn quật_ngã Nam , ghì sát xuống đất .
+",1,1,2,2,2,2,-1,2,2
+127420,2684,"Đồng_thời , bên_trong phòng_ngủ vẫn còn nhiều tài_sản khác như  vòng vàng đeo cổ , 2 dây_chuyền , 5 chiếc lắc đeo tay , 5 chiếc nhẫn ; 2 chiếc xe SH và Air Blade có để sẵn chìa_khóa dựng trong nhà nhưng bọn trộm không lấy.Một số hộ dân sống ở gần nhà bà H . cho_biết sau_khi vợ_chồng bà rời_khỏi nhà thì khoảng nửa giờ sau có 2 thanh_niên đội nón bảo_hiểm , đeo khẩu_trang chạy xe Exciter dừng trước cổng nhà , với nhiều biểu_hiện nghi_vấn .
+",1,1,2,2,2,2,-1,2,2
+127448,2687,"Công_an xác_định được nghi can số 1 của vụ_án và đang ráo_riết truy_lùng đối_tượng đã gây_ra thảm_án 3 người trong một gia_đình bị sát hại.   Thông_tin mới nhất trên báo Người lao_động cho_hay liên_quan đến vụ thảm_án 3 người trong một gia_đình bị sát_hại dã_man ở Tiền_Giang , một nguồn_tin cho_hay ccac trinh_sát đang ráo_riết truy_tìm nghi can Nguyễn_Đăng_Khoa ( SN 1987 ) , ngụ Đồng Tháp.  ",1,1,2,1,1,1,-1,2,1.25
+127449,2687,"Hiện phía cơ_quan công_an đã lấy lời_khai ban_đầu của nhân_chứng này.   Như thông_tin trên Tri_thức trực_tuyến đã đưa trước_đó , sáng_ngày 183 , một người_dân trên địa_bàn phát_hiện chị Đinh_Thị_Ngọc_Ánh ( ấp 4 , xã Tam_Hiệp , Châu_Thành ) bò ra đường kêu_cứu nên đã tri hô.   ",1,1,2,2,2,2,2,2,2
+127481,2688,"Đăng_phát_hiện Ánh tỉnh_lại thì nói nếu đã không chết thì tha_cho , sau_đó dùng dây trói Ánh lại và nhốt trong phòng .
+",1,1,2,2,2,2,2,2,2
+127485,2689,"Ánh hoảng_hốt kể_lại chuyện xảy_ra rạng_sáng cùng ngày.     Theo lời kể của Ánh , kẻ thủ_ác đã dùng sợi_dây dù siết cổ cả 3 nạn_nhân đến chết .
+",2,1,2,2,2,2,2,2,2
+127486,2689,"Cô_gái 17 tuổi cũng bị siết cổ nhưng may_mắn không chết , chỉ bị ngất đi.   Khi Ánh tỉnh_dậy , cô bị thủ_phạm phát_hiện .
+",2,1,2,2,2,2,2,2,2
+127508,2690,"Vậy_mà thằng Khoa lại ra_tay tàn_nhẫn !  , một người lên_án nghi can.Như đã thông_tin , khoảng 6h cùng ngày , người_dân thấy chị Đinh_Thị_Ngọc_Ánh ( 18 tuổi ) bò ra đường kêu_cứu nên hô_hoán chạy vào kiểm_tra thì tá hỏa phát_hiện chị Ngân , bà Hoa cùng bé Ý đã tử_vong trong nhà.Chị Ngọc_Anh cho_biết , nghi can là Nguyễn_Đăng_Khoa .
+",2,1,2,2,2,2,2,2,2
+127509,2690,"Theo_đó , Khoa sau khi sát_hại những người trong gia_đình thì bóp_cổ chị Ánh , khi cô_gái van_xin thì Khoa tha_chết và nói  sẽ tự_tử  .Qua khám_nghiệm hiện_trường , khám_nghiệm tử_thi , cơ_quan chức_năng xác_định cả 3 nạn_nhân tử_vong đều có dấu_hiệu bị siết cổ .
+",2,1,2,2,2,2,2,2,2
+127511,2691,"Thấy con_riêng của vợ là bé A . chạy ra trước , Khoa đuổi_theo và dùng dây dù thắt_cổ bé .
+",2,1,2,2,2,2,2,2,2
+127514,2691,"Khoa dùng dây dùng dù trói tay , chân N.A. Tiếp đến , thấy con_riêng của vợ là bé P .N.A. chạy ra trước , Khoa đuổi_theo và dùng dây dù thắt_cổ bé cho_đến chết . ",2,1,2,2,2,2,2,2,2
+127517,2691,"Kế_đến , Khoa mở cốp xe của vợ lấy tiền và lên_xe tẩu thoát.Kết quả khám_nghiệm hiện_trường , lực_lượng chức_năng thu_giữ tổng_cộng 4 sợi_dây dù , trong_đó có 1 sợi_dây dính vào cổ bé P.N.A .
+",1,1,2,2,2,2,-1,2,2
+127518,2691,"Kết_quả khám_nghiệm tử_thi xác_định , các nạn_nhân chết_ngạt do bị thắt_cổ , trên cổ có vết hằn.Theo nguồn_tin của chúng_tôi , vào năm 2012 , chị Ngân kết_hôn với anh Phan Minh.B. , ngụ huyện Châu_Thành , tỉnh Tiền_Giang , làm_nghề chăn_nuôi heo ) và có 1 con chung là cháu A .
+",2,1,2,2,2,2,-1,2,2
+127532,2692,"Lúc_này , mọi_người chỉ nghĩ là người_đi_đường nên không_mấy ai để ý.Khi nghe_tiếng súng nổ , người_dân chạy sang phát_hiện vợ_chồng ông Vụ tử_vong trên vũng_máu cạnh_đó là người_đàn_ông lạ_mặt trọng thương. ",2,1,2,2,2,2,2,2,2
+127541,2693,"Ngay sau_đó , người_thân đưa nạn_nhân đi cấp_cứu tuy_nhiên cả_hai người đã tử_vong vết do thương quá nặng.   Trưa 178 , cơ_quan công_an đã hoàn_tất khám_nghiệm hiện_trường .
+",2,1,2,2,2,2,-1,2,2
+127546,2694,"Sau_đó cả 2 đã dùng dây dù siết cổ khiến nạn_nhân tử_vong , rồi vứt xác phi tang.   Hiện_trường vụ_án mạng.Theo tin_tức trên Công_an Nhân_dân , ngày 159 , cơ_quan Công_an tỉnh Hòa_Bình đang tạm_giữ hình_sự đối_tượng Bùi_Văn_Hiền ( 19 tuổi , ở xã Thượng_Cốc ( huyện Lạc_Sơn , tỉnh Hòa_Bình ) để điều_tra về hành_vi Giết_người , Cướp tài sản.   Chiếc xe ô_tô của nạn_nhân được công_an thu_hồi sau khi nghi phạm mang đi cầm cố.Tối 149 , trao_đổi với phóng_viên Trí_thức trẻ , một lãnh_đạo Công_an tỉnh Hòa_Bình cho_biết , đơn_vị đã làm rõ danh_tính thi_thể người_đàn_ông phân hủy trong bao_tải ở đèo Thung Khe .
+",2,1,2,2,2,2,2,2,2
+127553,2694,"Đến chiều ngày 149 , sau_khi tìm_kiếm các lực_lượng đã phát_hiện ra thi_thể của nạn_nhân Nam.Qua đấu_tranh bước_đầu , Hiền khai_nhận cùng với Bùi_Văn_An ( 21 tuổi , người cùng xã ) đến thuê anh Nam lấy ô_tô chở đi_vào khoảng 2h sáng_ngày 49.Trên đường_đi , lợi_dụng lúc anh Nam không để_ý , cả 2 đã dùng dây dù siết cổ khiến nạn_nhân tử_vong , rồi vứt xác xuống khu_vực đèo Thung Khe ( ở xã Tòng_Đậu , huyện Mộc_Châu ) , cách mặt_đường Quốc_lộ 6 khoảng hơn 100m.Hiện Công_an tỉnh Hòa_Bình chỉ_đạo các đơn_vị nghiệp_vụ , khẩn_trương truy_bắt đối_tượng An đang bỏ_trốn để phục_vụ công_tác điều_tra , xử_lý theo quy định.Đức Hoà ( tổng_hợp ) Nguồn  Tinnhanhonline.vn   
+",2,1,2,2,2,2,-1,2,2
+127560,2695,"Tuy_nhiên , đúng_lúc Tráng với tay lấy điện_thoại thì chị H . thức_giấc , túm lại.Bất ngờ , Tráng dùng dao đâm chị H . gục ngay tại_chỗ .
+",2,1,2,2,2,2,2,2,2
+127562,2695,"Phát_hiện sự_việc , anh T . lao_vào ôm đối_tượng giằng co.   Chưa dừng_lại , Tráng tiếp_tục dùng dao đâm anh T . khiến cả_hai vợ_chồng nạn_nhân tử vong.Vào cuộc điều_tra , sau_khi đã xác_định được nghi phạm là Tráng , cơ_quan tố_tụng đã tiến_hành khám_xét chỗ_ở của đối_tượng này .
+",2,1,2,2,2,2,-1,2,2
+127576,2697,"Bị Phú tấn_công bất_ngờ , bà Ng. xin đối_tượng tha_chết và nói sẽ làm_theo mọi yêu_cầu của hắn_ta .
+",1,1,0,0,0,0,-1,2,0
+127577,2697,"Theo kết_quả điều_tra của cơ_quan công_an , vào_khoảng 20h10 phút ngày 148 , Công_an huyện An_Lão ( TP . Hải_Phòng ) nhận_được tin báo của người_dân về việc phát_hiện bà Ng. ( chủ_nhà nghỉ  karaoke M.T , ở xã Mỹ_Đức , huyện An_Lão , TP.Hải Phòng ) chết trong tình_trạng cơ_thể có nhiều vết_thương do bị đâm , chém.",2,1,0,0,0,0,-1,2,0
+127580,2697,"Theo lời_khai ban_đầu của Phú , do không có tiền chơi bắn cá nên đối_tượng nảy_sinh ý_định đi cướp tài_sản_bà Ng.Nghĩ là làm , đến khoảng 19h30 ngày 148 , Phú_phóng xe_máy một_mình tới nhà nghỉ M.T của bà Ng. tìm_cách cướp tài_sản .
+",1,1,1,1,1,1,-1,2,1
+127582,2697,"Lợi_dụng bà_chủ sơ_hở , Phú cầm dao đâm vào gáy bà Ng.Bất ngờ bị tấn_công , bà_chủ_nhà nghỉ M.T bỏ_chạy ra hành_lang kêu_cứu thì bị đối_tượng đuổi_theo quật_ngã xuống_đất .
+",2,1,2,2,2,2,2,2,2
+127583,2697,"Sau_đó , nạn_nhân cố_gắng chống_trả , kêu_cứu nhưng bị Phú dùng tay bịt mồm và bóp_cổ .
+",2,1,2,2,2,2,2,2,2
+127584,2697,"Lúc_này , bà Ng dùng miệng cắn mạnh làm Phú bị_thương ở ngón_tay út_tay phải.Sau đó , bà_chủ_nhà nhỉ M.T. xin đối_tượng tha_chết và nói sẽ làm_theo mọi yêu_cầu của hắn_ta .
+",2,1,2,2,2,2,-1,2,2
+127586,2697,"Tuy_nhiên , khi bà_chủ nhà nghỉ vừa đứng_dậy đi ra phía cửa thì bị hắn_ta kéo vào bên_trong sử_dụng dao tấn_công vào_vùng cổ_tử vong.Thấy nạn_nhân đã chết , Phú_lấy sợi_dây_chuyền và một điện_thoại iPhone của bà_chủ_nhà nghỉ M.T. rồi tẩu thoát. ",2,1,2,2,2,2,2,2,2
+127591,2698,"Khi bà Hằng ( 49 tuổi , vợ ông Bích ) chạy ra ngoài thì bị Tiến_dùng dao sát hại.   Ông Nguyễn_Văn_Hoạt ( 42 tuổi , em_trai ông Bích ) ở_nhà kế_bên đã chạy sang can_ngăn thì bị Tiến_đâm tử_vong tại_chỗ .
+",2,1,2,2,2,2,2,2,2
+127599,2699,"Tuy_nhiên , chị Lanh đã tử_vong từ trước , còn anh Nghĩa do vết_thương quá nặng cũng tử_vong sau đó.Qua kiểm_tra , trên người chị Lanh bị nhiều vết chém ở vùng đầu , còn anh Nghĩa có một vết đâm ở bụng.Bắt nghi phạm đặt_thuốc_nổ trong micro hãm_hại một gia đìnhTheo Công_an quận Tân_Phú , khoảng 15h45 ngày 32 , khi anh L.T.N cùng vợ là chị Đ.B.T ( cùng 30 tuổi , ngụ tại phường Tân_Thới Hòa , quận Tân_Phú , TP.HCM ) và con_trai ( 3 tuổi ) đang ở_nhà , một tài_xế Grab đã mang gói hàng tới nhà giao cho anh chị.Đối tượng Tín .
+",2,1,2,2,2,2,2,2,2
+127617,2700,"Một_lúc sau , nhiều người phát_hiện ông Linh ngã_gục trên sàn_nhà do bị đâm nhiều nhát_dao lên người .
+",2,1,2,2,2,2,2,2,2
+127624,2701,"Lúc_này , Tình dùng dao_xếp đâm 2 nhát vào ngực bà Hồng_rồi đẩy nạn_nhân ngã xuống đất.Ông Chinh nghe_tiếng vợ nên chạy ra đứng ở cửa phòng_ngủ thì bị Tình dùng dao đâm nhiều nhát vào người khiến gục tại chỗ.Ba người con của ông Chinh – bà Hồng là  Triệu – Diệu – Diệp cũng bị Tình ra_tay sát_hại sau_đó .
+",2,1,2,2,2,2,-1,2,2
+127625,2701,"Do các nạn_nhân cố tìm_cách chống_cự nên con dao_xếp bị bật lưỡi ngược lên khiến tay_trái của Tình bị thương.Lúc này , Tình phát_hiện bà Hồng còn cử_động nên dùng dao đâm thêm 3 nhát cho_đến_khi nạn_nhân bất_động .
+",2,1,2,2,2,2,2,2,2
+127631,2701,"Khuya hôm_đó , Khánh_đi xe_máy về qua nhà chị Phương_rồi xông vào trong với ý_định hãm_hiếp nữ gia chủ.Thấy nạn_nhân   chạy sang nhà em_dâu là chị Triệu_Thị_Coi để kêu_cứu , Khánh đuổi_kịp và dùng dao_bầu chém chị Phương_tử_vong ngay trước_cửa .
+",2,1,2,2,2,2,-1,2,2
+127632,2701,"Do chị Coi chạy thoát , anh_ta đuổi không_kịp nên chạy quay_lại sát_hại 2 con chị Coi là các cháu Triệu_Văn_Tiến ( 6 tuổi ) và Triệu Nhật_Uyên ( 2 tuổi ) .Chưa dừng_lại , Khánh tiếp_tục chém bà Lý_Thị_Dân ( 96 tuổi , người_thân 2 cháu bé ) bị_thương nặng và tử_vong trên đường_đi cấp cứu.Gây án xong , Khánh_quay về_nhà chị Phương , tìm hai con chị này để giết bịt đầu_mối nhưng các cháu đã rời nhà từ trước.Trước khi bỏ_trốn , anh_ta đốt_nhà nữ nạn nhân.   Hơn 2 giờ sau , nghi phạm bị cảnh_sát bắt_giữ cách căn_nhà bị cháy hơn 50 m.Ngày 115 , cơ_quan điều_tra Công_an tỉnh Cao_Bằng đã khởi_tố Lý_Đình_Khánh về hành_vi Giết_người , tiếp_tục củng_cố hồ_sơ để làm_rõ hành_vi Hiếp_dâm và Hủy hoại tài sản.Con rể giết_hại 3 người trong gia_đình vợ   Đêm_ngày 1282018 , Nguyễn_Đăng_Khoa ở_nhà cùng vợ ( chị Ngân ) , mẹ_vợ , em_vợ và con_riêng của vợ ( bé Phan_Ngọc_Anh ) , tại     ấp 4 , xã Tam_Hiệp , H.Châu Thành , Tiền Giang.Khoảng 3h ngày 138 , Khoa dùng dây dù thắt_cổ giết_chết vợ là Đinh_Thị_Ngọc_Ngân , sau_đó sang phòng mẹ_vợ tiếp_tục dùng dây dù thắt_cổ giết bà Hoa.Nghe tiếng_động , Ngọc_Ánh chạy sang phòng mẹ thì bị Khoa bóp_cổ , đè xuống nền nhà đến_khi nạn_nhân ngất_đi , rồi dùng dây dù trói tay_chân Ngọc_Ánh , vác vào phòng Ánh , bỏ nằm trên giường.Chứng kiến sự_việc , cháu Phan_Ngọc_Anh hoảng_loạn bỏ_chạy ra ngoài_vườn thì bị Khoa đuổi_theo , dùng dây dù thắt_cổ giết chết.Gây án xong , Khoa mở cốp xe Air Blade của vợ lấy tiền , rồi lấy xe Future BS 63B3  465.66 ( do chị Ngân đứng tên ) tẩu thoát.Riêng nạn_nhân Ngọc_Ánh sau khi tỉnh_dậy đã tự cởi_trói chạy ra ngoài thì gặp Khoa , nhưng Khoa không giết.Tại cơ_quan công_an , Khoa khai_nhận , vì vợ có_ý định ly_hôn nên đối_tượng đã dùng dây dù siết cổ vợ , mẹ_vợ và con_riêng của vợ đến chết .
+",2,1,2,2,2,2,2,2,2
+127634,2701,"Hắn dùng một viên gạch_non đập vào người nữ_sinh , thấy nữ_sinh hô lớn tiếng , vì sợ bị lộ nên Tú dùng tay bóp_cổ nạn nhân.Tú khi bị_bắt .
+",2,1,2,2,2,2,2,2,2
+127636,2701,"Tú_khai , hắn có_ý định dùng gạch đập cho nạn_nhân ngất_đi chứ không cố_tình đập tử vong.Sau khi ra_tay với T. , suốt_cả đêm_hôm đấy , Tú loanh_quanh bên nạn_nhân và nghĩ có_thể đây là lần cuối_cùng được gặp con_gái nên muốn quan_hệ nhiều lần.Đến 4h sáng_ngày 46 , do mệt nên Tú đã phủ chăn lên người nạn_nhân rồi nằm bên_cạnh ôm ngủ .
+",2,1,2,2,2,2,2,2,2
+127637,2701,"Khoảng 9h sáng cùng ngày , Tú ngủ_dậy thấy tay , chân cô_gái đã cứng , nghi phạm lấy xe_máy Honda Vision của nạn_nhân rời khỏi hiện trường.Tú chạy xe_máy vòng_quanh các đường_phố , đến trưa trở_lại phòng trọ mang theo bình_xịt phòng và chai rượu.Hắn kể đã sử_dụng bình_xịt để khử_mùi căn_phòng , sau_đó lấy rượu xoa khắp người và đổ vào miệng nạn_nhân hy_vọng làm cơ_thể cô_gái ấm lên.Theo lời Tú , biết_chắc chắn mình sẽ phải đối_diện với pháp_luật nên đối_tượng đã lấy chăn phủ lên người nạn_nhân và đóng_cửa rồi bắt xe taxi ra_phố Quan_Hoa ( quận Cầu_Giấy , Hà_Nội ) ngồi uống bia.Sau đó , Tú gọi_điện cho bố bảo mình đã gây_ra trọng_tội và từ_giờ sẽ không làm_phiền bố_mẹ nữa .
+",1,1,2,2,2,2,-1,2,2
+127641,2701,"Mọi_người hốt_hoảng khi phát_hiện thi_thể của nạn_nhân nằm dưới sàn_nhà , đầu bị phủ kín .
+",2,1,2,2,2,2,2,2,2
+127643,2701,"Anh Bích ra mở cửa thì hốt_hoảng khi thấy Tiến_cầm dao tấn_công nhưng may_mắn né được nhát_dao .
+",1,1,2,2,2,2,2,2,2
+127644,2701,"Lúc_này , chị_Hằng ( vợ anh Bích ) chạy ra thì Tiến_dùng dao đâm_tử vong.Đối tượng Nguyễn_Văn_Tiến_tại cơ_quan Công an.Nghe tiếng ồn_ào bên nhà anh trai sát bên_cạnh , anh Nguyễn_Văn_Hoạt ( em_trai anh Bích ) chạy sang thì bị Tiến_dùng dao đâm tử_vong ngay tại cửa_ra_vào .
+",2,1,2,2,2,2,-1,2,2
+127647,2701,"Cháu Hinh bỏ_chạy vào nhà trốn thì bị Tiến_chém tử vong.Chưa dừng tay , Tiến_tiếp_tục cầm dao tới nhà anh Nguyên ( hàng_xóm bên_cạnh ) gọi_cửa .
+",2,1,2,2,2,2,2,2,2
+127650,2701,"Do hoảng_sợ nên không_biết thai_nhi còn sống hay chết , là trai hay gái , Vân_Anh dùng kéo trong nhà_vệ_sinh cắt dây rốn , bỏ cháu bé vào túi nilon đen , đặt cháu bé lên cửa_sổ nhà_vệ_sinh rồi dùng tay đẩy xuống cửa_sổ .
+",2,1,2,2,2,2,2,2,2
+127667,2704,"Sau_khi bị bắt_giữ , khai_nhận bước_đầu , nghi phạm khai_là cán_bộ ngân_hàng ở Nghệ_An khai_nhận việc đã dùng_dao để sát_hại bố , chém trọng_thương mẹ cùng em_gái đang mang thai.   Thông_tin mới nhất trên báo Vietnamnet và Người lao_động cho_hay ngày 122 , theo nguồn_tin từ Công_an Nghệ_An , sau_khi dùng dao đâm bố_đẻ tử_vong , chém mẹ cùng em_gái trọng_thương , nghi phạm Trương_Mạnh_Tuấn ( 32 tuổi , trú xã Nghi_Thạch , huyện Nghi_Lộc , Nghệ_An ) đã cầm_dao , điều_khiển xe ôtô bỏ_trốn .
+",2,1,2,2,2,2,2,2,2
+127668,2704,"Khi tới Khu_Công_nghiệp Nam Cấm , xe ôtô của Tuấn tông vào cột_đèn bên_đường , Tuấn xuống xe bỏ chạy.Sau khi phát_hiện xe ô_tô của Tuấn bị tai_nạn nằm bên_đường , lực_lượng công_an đã tiến_hành phong_tỏa và bao_vây các khu_vực lân_cận , không cho đối_tượng tẩu thoát.   Đối_tượng Trương_Mạnh_Tuấn đang được điều_trị tại bệnh_viện dưới sự_giám_sát của cơ_quan công_an .
+",1,1,2,2,2,2,-1,2,2
+127671,2704,"Tuấn bị cơ_quan công_an khống_chế , bắt_giữ ngay sau đó.Khai nhận tại cơ_quan công_an , Tuấn_khai vào chiều ngày 82 ( mùng 4 Tết ) , Tuấn đi_họp lớp cùng với bạn_học cũ.       Tại quán karaoke , Tuấn có sử_dụng ma túy dạng cỏ , sau_đó y có biểu_hiện mất kiểm_soát và đến tối_ngày 102 , bắt_đầu cầm_dao truy_sát cả gia đình.   Thông_tin trước_đó cho_hay vào_khoảng 23h ngày 102 , Trương Mạnh Tuấn   ( SN 1987 , trú xã Nghi_Thạch , huyện Nghi_Lộc , tỉnh Nghệ_An ) bất_ngờ cầm dao xông vào nhà đâm , chém liên_tiếp nhiều nhát vào người bố mình là ông Trương Cảnh H . ( SN 1958 ) khiến nạn_nhân tử_vong tại_chỗ .
+",2,1,2,2,2,2,2,2,2
+127672,2704,"Tuấn sau_đó tiếp_tục cầm dao chém nhiều nhát vào mẹ và em_gái ruột đang mang thai khiến cả 2 người trọng thương.Đối tượng hiện là phó_phòng kinh_doanh một ngân_hàng lớn có chi_nhánh tại TX .
+",2,1,2,2,2,2,-1,2,2
+127678,2705,"Sau đó , đối_tượng giả_vờ hỏi nhà_vệ_sinh , rồi đi xuống bếp lấy một con dao Thái_Lan và quay trở_lại phòng_khách bất_ngờ đâm một nhát vào bụng bé Tr. rồi lấy chiếc điện_thoại . ",2,1,2,2,2,2,2,2,2
+127679,2705,"Khi bị_nạn nhân kêu_cứu , đối_tượng Việt tiếp_tục đâm thêm nhát thứ 2 vào bụng bé Tr. rồi giật sợi_dây_chuyền bỏ vào túi .
+",2,1,2,2,2,2,2,2,2
+127680,2705,"Sau_khi gây_án , Việt_bỏ_lại con_dao , áo_mưa và đôi dép ở hiện_trường rồi lên xe_máy bỏ trốn.Cơ quan điều_tra bắt_giữ Việt vào khoảng 22h cùng ngày khi anh_ta đang ở_nhà cách hiện_trường khoảng 2km.   Tại cơ_quan công_an , Việt_khai do cháu Tr. nhìn_thấy mặt nên giết để không bị báo_công an.Khi bà Lê_Thị_Thu ( SN 1973 ; mẹ bé Tr. ) trở_về nhà và phát_hiện con mình nằm trên vũng_máu , rơi vào tình_trạng hôn_mê nên đưa_đến Bệnh_viện Trung_ương Huế cấp_cứu , sau 3 ngày điều_trị cháu Tr. đã không qua khỏi",2,1,2,2,2,2,2,2,2
+127701,2707,"Khi thấy vợ bị đâm , anh Hoạt đã chạy đến để can_ngăn thì bị Tiến_đâm trúng ngực .
+",2,1,2,2,2,2,2,2,2
+127706,2707,"Chị Nguyệt vừa mở cửa thì bị Tiến chạy sang cầm dao đâm vào ngực nhưng chị lấy tay đỡ được nên chỉ bị_thương .
+",2,1,2,2,2,2,2,2,2
+127707,2707,"    Thấy vợ bị đâm , anh Hoạt chạy tới can_ngăn liền bị Tiến_đâm trúng ngực .
+",2,1,2,2,2,2,2,2,2
+127708,2707,"Lúc_này , anh Hoạt liền hét lớn  Mẹ_con chạy hết đi .Quá hoảng_sợ , chị Nguyệt cùng hai con ( gồm cháu Hinh , 13 tuổi và con_gái lớn 18 tuổi ) chạy ra ngoài.Sau khi đâm_gục anh Hoạt xong , đối_tượng Tiến_liền chạy tiếp sang nhà ông Bích đâm cháu Hinh tử_vong .
+",2,1,2,2,2,2,2,2,2
+127709,2707,"Trước_đó , Tiến cũng đã đâm vào tay làm anh Bích bị_thương , sau_đó truy_đuổi đâm vợ anh Bích là chị_Hằng tử_vong ngay tại sân .
+",2,1,2,2,2,2,2,2,2
+127710,2707,"Trong cơn hoảng_loạn , chị Nguyệt cùng con_gái nhanh_chóng chui vào bụi chuối nên thoát nạn.Đối tượng Tiến_tiếp_tục cầm dao trèo qua bờ tường cao gần 2m vào nhà anh_Vũ_Xuân_Nguyên ( cách đó gần chục mét ) , đâm_chém vợ_chồng anh Nguyên , chị Ngọt và con trai.Tại nhà anh Nguyên , đối_tượng Tiến_bị người_dân xung_quanh và em_trai Tiến_là Nguyễn_Văn_Hòa khống_chế , tước được dao .
+",1,1,2,2,2,2,2,2,2
+127712,2708,"Trước_khi cầm dao sát_hại 3 người tử_vong , 4 người_khác bị_thương , nghi phạm vẫn sang nhà_vợ chồng chị Nguyễn_Thị_Ngọt_chơi , uống_nước nói_chuyện vui_vẻ .
+",2,1,2,0,2,2,-1,2,1.5
+127713,2708,"Theo tin_tức từ Trí_Thức trẻ , cơ_quan CSĐT Công_an tỉnh Thái_Nguyên đang tiến_hành tạm_giữ hình_sự đối_với Nguyễn_Xuân_Tiến ( SN 1962 , trú_tại làng Phú_Mỹ , xã Lương_Phú , huyện Phú_Bình , tỉnh Thái_Nguyên ) để điều_tra , làm_rõ về hành_vi  Giết_người  .   Tiến được xác_định là nghi phạm gây_ra vụ_án mạng đau_lòng vào rạng_sáng 259 , làm 3 người tử_vong và 4 người_khác bị_thương nặng đang được cấp_cứu , điều_trị tại Bệnh_viện Trung_ương Thái Nguyên. ",1,1,2,0,1,0,-1,2,0.75
+127714,2708,"Nằm trên giường_bệnh , vợ_chồng chị Nguyễn_Thị_Ngọt và anh_Vũ_Xuân_Nguyên ( SN 1980 ) vẫn chưa hết bàng_hoàng khi nhớ_lại cảnh đối_tượng Nguyễn_Xuân_Tiến_cầm_dao sát_hại 3 người tử_vong , 4 người_khác trong_đó có vợ_chồng chị cùng con_trai Vũ_Đức_Nhân ( SN 2013 ) bị thương.   Trao_đổi với PV Saostar , chị Nguyễn_Thị_Ngọt cho_biết , tối_ngày 249 gia_đình chị đi_ngủ nhưng chỉ khoá_cửa cổng còn cửa trong nhà vẫn mở để sáng_sớm hôm_sau bán đàn lợn sớm.Đến khoảng hơn 1 giờ sáng_ngày 259 , thấy chó cắn chị Ngọt nghĩ là người_mua lợn đến , vừa bước_ra khỏi phòng_ngủ , chị Ngọt thấy bóng_người đi từ ngoài vào. Lúc_đó , tôi sợ quá liền đưa_tay bật điện thì thấy ông Tiến_đứng ngay giữa phòng . ",1,1,2,2,2,2,2,2,2
+127715,2708,"Tôi chưa kịp nói câu gì thì ông_ấy cầm dao chém vào cổ .
+",2,1,2,2,2,2,-1,2,2
+127716,2708,"May_mắn , tôi giơ_tay đỡ được thì ông_ta lại chém thêm nhiều nhát nữa vào hai bên cánh_tay và đầu .
+",2,1,2,2,2,2,2,2,2
+127717,2708,"Sau_khi trấn_tĩnh tôi hô_hoán thì chồng bật dậy lao_vào ôm ông Tiến , chị Ngọt sợ_hãi kể.",1,1,2,2,2,2,2,2,2
+127719,2708,"Mở cửa xong , tôi chạy thẳng vào phòng con_trai thì lúc_này miệng con tôi đã ứa ra đầy máu , cháu cố nói gì_đó với mẹ mà chẳng thể nói_lên lời.   ",2,1,2,2,2,2,2,2,2
+127720,2708,"Tôi ôm_con thật_chặt , che_chắn cho con để tránh những nhát_dao .
+",1,1,0,0,0,0,-1,2,0
+127721,2708,"May_mắn , có chú Hùng sang kịp_thời nếu không cả gia_đình tôi đã bị đâm_chết .
+",1,1,0,2,0,0,-1,2,0.5
+127722,2708,"Lúc_đó , hai_tay tôi đều bị chém , chân đau nên không_thể giúp gì được cho chồng , chị Ngọt nói_với giọng đầy sợ hãi.",2,1,2,2,2,2,2,2,2
+127725,2708,"Ngoài_ra , đối_tượng Tiến cho_biết thêm , việc sát_hại cháu Hinh do bị lộ quẫn nên gây_án làm_liều ... Nói về lời_khai của Tiến , trao_đổi với PV Thời_Đại , chị Ngọt cho_hay  ",1,1,1,1,1,0,-1,2,0.75
+127729,2708,"Ngoài_ra , Nhân còn có vết chém dài 8 cm ở vùng ngực.  Nạn_nhân đã qua cơn nguy_kịch sau khi bệnh_viện thực_hiện ca_mổ  , bác_sĩ Dũng nói.Cách nơi con_trai cấp_cứu không_xa , anh Nguyên và vợ cũng_được cán_bộ y_tế băng_bó hàng_loạt vết_thương trên người.May mắn là 2 trong_số 4 nạn_nhân sống_sót sau đêm cuồng sát của Nguyễn_Văn_Tiến , chị Ngọt và chồng bảo họ chưa thể trấn_tĩnh trở lại.Hà Trang ( tổng_hợp ) Nguồn  Tinnhanhonline.vn   
+",2,1,2,2,2,2,-1,2,2
+127732,2709,"Khi vừa mở cửa , Tiến đã dùng dao đâm ông Bích nhưng may_mắn ông Bích đã tránh được.       Lúc_này , bà Trần_Thị_Hằng_bị vợ ông Bích chạy ra thấy sự_việc hỏi lý_do tại_sao bị Tiến_dùng dao đâm_chết tại chỗ.   Khi nghe_thấy tiếng_động , ông Nguyễn_Văn_Hoạt , là hàng_xóm , sang có lời can_ngăn thì cũng bị Tiến_dùng dao đâm tử_vong . ",2,1,2,2,2,2,2,2,2
+127733,2709,"Cháu Nguyễn Văn H . ( 13 tuổi , con_trai ông Hoạt ) nghe_tiếng bố la_lên liền vùng_dậy chạy sang nhà ông Bích cũng bị Tiến_đuổi_theo chém nhiều nhát dẫn tới tử vong.Sau khi gây_án , Nguyễn_Xuân_Tiến tiếp_tục cầm dao đi đến nhà ông Vũ_Xuân_Nguyên .
+",2,1,2,2,2,2,-1,2,2
+127734,2709,"Thấy cổng khoá , gọi_cửa không được , Tiến_liền trèo qua cổng vào nhà dùng dao tấn_công ông Nguyên .
+",1,1,2,2,2,2,2,2,2
+127735,2709,"Lúc_này , bà Nguyễn_Thị_Ngọt đang ôm_con ngủ vùng_dậy xem_xét thì bị Tiến_dùng dao tấn_công khiến 2 mẹ_con nhập viện.Sau đó , anh Nguyễn_Văn_Hoà là em_trai của Tiến_cùng một_số người_dân khống_chế tước_dao của đối_tượng .
+",2,1,2,2,2,2,2,2,2
+127738,2710,"Bị 2 xe bán_tải ép dừng trên quốc_lộ , chủ_tiệm cầm_đồ ở Hà_Tĩnh xuống_xe rút súng ra bắn thị_uy thì bị cả chục thanh_niên lao đến tước súng và dùng dao kiếm chém tử_vong .
+",2,1,2,2,2,2,2,2,2
+127742,2710,"Khi đang đi trên đường , xe của Tuấn bất_ngờ bị xe bán_tải tông vào hông xe và ép dừng lại.Khẩu súng và một số tư_trang của nạn_nhân tại hiện trường.Bước xuống_xe , Tuấn cầm khẩu súng_côn quay ngắn màu_trắng sáng .
+",1,1,2,2,2,2,2,2,2
+127743,2710,"Khi vừa giơ_lên định bắn thì bị cả chục người trên 2 xe bán_tải lao đến tước súng rồi dùng kiếm , dao chém tới tấp.   Sau khoảng chục phút hỗn_chiến , Tuấn bị nhóm người này chém gục xuống_đường .
+",1,1,2,2,2,2,2,2,2
+127753,2711,"Đồng_thời , đối_tượng đổ xăng chảy lan trên nền nhà , rồi bật_lửa châm khiến ngôi_nhà bị cháy ngùn ngụt.Thấy cửa_hàng bị cháy , chị Ng. vừa la_hét kêu_cứu , vừa chạy lên cầu_thang để cứu con và người_giúp_việc nhưng bị Thụ kéo ra ngoài.   Sau_khi gây_án , Thụ_tự đón_xe taxi đến bệnh_viện đa_khoa tỉnh Đắk Lắk để cấp_cứu do bản_thân cũng bị bỏng   30    cơ thể. ",1,1,2,2,2,2,-1,2,2
+127773,2712,"Sau_khi rảo qua nhiều tuyến đường , Tài chở Phú chạy ra đường CMT8 hướng_về Ngã sáu Dân Chủ.Cùng lúc_này , nhóm  hiệp_sĩ đường_phố  gồm các anh Trần_Văn_Hoàng , Nguyễn_Văn_Thôi , Nguyễn_Hoàng_Nam , Đinh_Phú_Quý , Nguyễn_Đức_Huy , Lê_Văn_Tuyên , Đinh_Văn_Tài phát_hiện 2 đối_tượng này có dấu_hiệu khả_nghi nên bám theo.Nhìn thấy chiếc xe_máy SH đậu trước_cửa_hàng 248C Cách_Mạng Tháng 8 ( phường 10 , quận 3 ) không người trông_coi , Tài và Phú quyết_định lấy trộm .
+",1,1,2,2,2,2,-1,2,2
+127796,2713,"Sau_khi rảo qua nhiều tuyến đường , Tài chở Phú chạy ra đường CMT8 hướng_về Ngã sáu Dân Chủ.Cùng lúc_này , nhóm  đường_phố  gồm các anh Trần_Văn_Hoàng , Nguyễn_Văn_Thôi , Nguyễn_Hoàng_Nam , Đinh_Phú_Quý , Nguyễn_Đức_Huy , Lê_Văn_Tuyên , Đinh_Văn_Tài phát_hiện 2 đối_tượng này có dấu_hiệu khả_nghi nên bám theo.Nhìn thấy chiếc xe_máy SH đậu trước_cửa_hàng 248C Cách_Mạng Tháng 8 ( phường 10 , quận 3 ) không người trông_coi , Tài và Phú quyết_định lấy trộm .
+",1,1,2,2,2,2,-1,2,2
+127799,2713,"Để thoát_thân , Tài đã rút con dao giấu trong người đâm loạn_xạ khiến anh Thôi , Nam_tử_vong tại_chỗ , còn anh Hoàng_bị trọng thương.Phát hiện_Phú đang bị anh Quý và anh Huy khống_chế , Tài liền chạy tới đâm 2 người này rồi lên_xe cho Phú chở đi .
+",2,1,2,2,2,2,2,2,2
+127810,2714,"Đến nơi , Thêm dùng dao cắt vào cổ và đâm liên_tiếp vào người chị Ngà.Nạn nhân thương_tích nặng , gục tại_chỗ và tử_vong sau_khi người_thân đưa đến bệnh_viện cấp_cứu .
+",2,1,2,2,2,2,2,2,2
+127811,2714,"Còn_về phần Thêm sau khi gây_án , người phụ_nữ này dựng_lên hiện_trường bị hai thanh_niên cướp nhưng không_thể qua_mặt lực_lượng chức năng.Theo một nguồn_tin riêng của phóng_viên , nạn_nhân Vũ_Thị_Ngà đã bị đâm nhiều nhát_dao vào người và 1 vết cắt trên vùng cổ_họng dẫn đến thương_tích nặng , mất nhiều máu tử vong.Tại hiện_trường , chiếc xe_máy của nạn_nhân vẫn dựng_đứng trên đường .
+",2,1,2,2,2,2,2,2,2
+127816,2715,"Tin_tức pháp_luật 24h mới nhất , nóng nhất ngày 1822019    Đường_dây á_hậu bán_dâm ở Sài_Gòn bị điều_tra bổ_sung , khởi_tố tài_xế xe_khách đâm xe biển xanh khiến 8 người thương vong ...
+",2,1,2,2,2,2,-1,2,2
+127843,2717,"Khi ông Phương đứng_dậy thì nhóm  giang_hồ  xông tới vây chém ông T.   Sau_khi gây_án , nghe_tiếng người_dân trong khu_vực la_hét , đám côn_đồ mới lên xe_máy tẩu_thoát ra đường Nguyễn_Duy_Trinh .
+",2,1,2,2,2,2,-1,2,2
+127852,2718,"Chỉ_vì sàn_nhà còn vương_vãi cơm mà Thìn đánh mẹ chấn_thương sọ não dẫn đến tử_vong .
+",2,1,2,2,2,2,2,2,2
+127855,2718,"Hai bên lời qua tiếng lại , Thìn xông vào tát mẹ ,   xô nạn_nhân ngã xuống nền nhà , đầu đập xuống đất bất tỉnh . Thìn đánh mẹ ruột tử_vong khiến cả_làng_quê rúng_động Người nhà liền xông đến can_ngăn , đồng_thời đưa nạn_nhân đến bệnh_viện cấp_cứu trong tình_trạng nguy_kịch . ",2,1,2,2,2,2,2,2,2
+127916,2723,"Liên_quan đến vụ cô_gái bị   sát_hại   khi đi giao gà cho mẹ chiều 30 Tết , theo kết_quả điều_tra , trong 3 ngày giam_giữ cô_gái trẻ , 5 con nghiện lần_lượt xâm_hại nạn_nhân , sau_đó bàn kế_hoạch giết để bịt đầu_mối .
+",2,1,2,2,2,2,2,2,2
+127941,2725," Khi ông Bẩy bị_thương nặng được đưa đi cấp_cứu , ông Tuyết tiếp_tục cầm súng chạy qua nhà em_rể Hà_Văn_Thọ ( 46 tuổi ) ở cùng thôn , gọi ra cổng rồi bắn tử vong.Nghi can sau_đó ra cơ_quan điều_tra đầu_thú . ",2,1,2,2,2,2,2,2,2
+127946,2725,"Sau loạt đạn , anh D . ngã_gục tại_chỗ , biết_mình bắn nhầm , Minh đã hô_hoán và cùng người_dân đưa nạn_nhân đi cấp_cứu .
+",1,1,2,2,2,2,-1,2,2
+127947,2725,"Tuy_nhiên , do vết_thương quá nặng nạn_nhân đã tử_vong trên đường đến bệnh viện.     Sau khi xảy_ra sự_việc , trong_ngày , Triệu Văn_Minh cũng đã tới cơ_quan công_an đầu_thú và giao_nộp khẩu súng tự_chế .
+",1,1,2,2,2,2,2,2,2
+127949,2725,"Hai bên cự cãi , Điền chạy vào quán gần đó lấy dao đâm anh Bảo .
+",2,1,2,2,2,2,2,2,2
+127960,2727,"Theo luật_sư , nguyên_nhân chính xảy_ra vụ_việc không_phải từ bà_lão mà từ phía nhóm thanh_niên .
+",0,1,0,0,0,0,0,2,0
+127961,2727,"Bà_lão 86 tuổi thấy đứa_bé khóc nên nghĩ rằng có hành_vi bắt_cóc , việc nhầm_lẫn này chưa đủ yếu_tố xử_lý về mặt_hình sự.",0,1,1,1,1,0,-1,2,0.75
+127962,2727,"Ngày 232 , Công_an tỉnh Long_An đang tạm_giữ Nguyễn_Ngọc_Hải_Điền ( 26 tuổi , ngụ thị_trấn Hậu_Nghĩa , huyện Đức_Hòa , tỉnh Long_An ) , hung_thủ đâm_chết anh Lê_Hoài_Bảo ( 28 tuổi , quê Kiên_Giang , ngụ cùng địa_phương ) .",1,1,1,1,1,1,-1,2,1
+127963,2727,"Điền cho_rằng đã nghe_tiếng một bà_cụ bán vé_số hô_hoán   Có người bắt_cóc trẻ_em !  .Điền chạy lại thì phát_hiện anh Bảo ở cùng con_trai .
+",0,1,0,2,1,1,-1,2,1
+127964,2727,"Mặc_dù người_cha đã hết_lời giải_thích là cha_ruột của đứa_bé nhưng Điền không nghe khăng_khăng đòi đưa lên trụ_sở công_an .
+",0,1,0,0,0,0,-1,2,0
+127965,2727,"Lúc_này Điền và nhóm thanh_niên khác đã lao_vào hành_hung anh Bảo. ",1,1,2,2,2,2,-1,2,2
+127966,2727,"    Cũng theo luật_sư Loan , hành_vi của bà_lão tri_hô dẫn đến vụ_án mạng nói trên chưa đủ yếu_tố để xử_lý hình_sự .
+",0,1,1,0,1,0,-1,2,0.5
+127967,2727,"Bởi theo báo_chí đưa_tin , bà_lão đã 86 tuổi và thấy đứa_bé khóc nên nghĩ rằng có hành_vi bắt_cóc , việc nhầm_lẫn này chưa đủ yếu_tố xử_lý về mặt hình_sự .
+",0,1,1,0,1,0,-1,2,0.5
+127968,2727,"Đồng_thời người khống_chế và hành_hung là nhóm nam thanh_niên hoàn_toàn đủ nhận_thức và hiểu_biết để xử_lý vấn đề.  ",0,1,1,0,0,0,-1,2,0.25
+127970,2727,"Tôi rất ân_hận , cụ Gắt nghẹn_ngào chia sẻ. ",0,1,0,0,0,0,0,2,0
+127986,2728,"Gã trích 80 triệu đồng mang_về nhà gửi người_thân rồi quay sang chở vợ sắp cưới đi chơi.Gia đình nạn_nhân phát_hiện mất tài_sản lớn , báo cảnh_sát thì Đạt bỏ_trốn và bị bắt_giữ vào hôm sau.   Cảnh_sát đã thu_hồi số_tiền trả_lại cho bị hại ",1,1,2,2,2,2,-1,2,2
+128004,2731,"Người_dân gần hiện_trường tìm thấy chiếc quần và lồng_gà của nữ_sinh bị cưỡng_bức , sát_hại khi đi giao gà ở Điện_Biên cho_biết , sau vụ_án ít ngày đã có 2 thanh_niên lạ_mặt chạy vào dọa_nạt đòi xem camera .
+",1,1,2,2,2,2,2,2,2
+128036,2733,"Liên_quan đến vụ nữ_sinh giao_gà bị sát_hại ở Điện_Biên , chị T . là người đầu_tiên phát_hiện ra thi_thể nạn_nhân không khỏi bàng_hoàng khi chồng bị triệu_tập .
+",0,1,2,2,2,2,-1,2,2
+128037,2733,"Theo tin_tức trên báo Người đưa_tin , liên_quan đến vụ nữ_sinh giao_gà bị sát_hại ở Điện_Biên , ngoài nghi phạm Vương_Văn_Hùng ( SN 1984 ) đã bị_bắt sáng 122 thì còn một người nữa cũng đang bị cơ_quan chức_năng triệu tập.Người thứ 2 bị triệu_tập tên B.H.D. chính là chồng của chị Bùi Thị T . người đầu_tiên phát_hiện ra thi_thể nạn_nhân Cao Mỹ D . trong chuồng_lợn tại ngôi_nhà_hoang . ",0,1,1,2,1,1,-1,2,1.25
+128038,2733,"Ngay sau_đó , chị T . chạy về báo cho chồng biết.  Nghe_thấy tôi bảo trong vườn nhà em_gái có xác_chết , anh_ấy tỏ_ra bất_ngờ và bàng_hoàng , bảo tôi đi báo công_an còn anh_ấy đi hô_hoán mọi_người .",0,1,2,0,1,0,-1,2,0.75
+128039,2733,"Chị T . cho_biết , chị và chồng đã ly_thân từ lâu .
+",0,1,0,0,0,0,-1,2,0
+128040,2733,"Mùng 3 Tết , chị qua chỗ chồng để chúc_tết thì phát_hiện thi_thể của D.",0,1,2,0,1,0,-1,2,0.75
+128041,2733,"Anh_ấy còn bảo tôi cái xác ở đâu , kêu tôi chỉ tận nơi .
+",0,1,0,0,1,0,-1,2,0.25
+128042,2733,"Mấy hôm_sau thì anh_ấy bị công_an triệu_tập vì nghi liên_quan đến vụ_án  , chị T . chia_sẻ trên báo Người đưa tin.Nơi xảy_ra vụ_việc .
+",0,1,1,2,0,2,-1,2,1.25
+128043,2733,"Liên_quan vụ_việc nữ_sinh Cao Mỹ D . ( SN 1997 ) bị mất_tích và sát_hại khi đi giao gà chiều 30 Tết , trên tờ Lao_Động , Công_an Điện_Biên đã bắt Vương_Văn_Hùng ( SN 1984 ) , một trong những nghi phạm của vụ_án . ",1,1,1,1,1,1,-1,2,1
+128044,2733,"Bước_đầu Vương_Văn_Hùng_khai_nhận đã giết nạn_nhân để cướp_tài sản.Trước đó , khoảng 17 giờ ngày 42 ( tức chiều 30 Tết ) , trong_lúc chị Cao Mỹ D . ( SN 1997 , trú đội 5 , xã_Thanh_Hưng , huyện Điện_Biên , tỉnh Điện_Biên ) bán gà ngoài chợ Mường Thanh , TP.Điện Biên Phủ với mẹ thì có một người_đàn_ông khoảng từ 36  38 tuổi tới hỏi_mua gà với số_lượng lớn.Người đàn_ông này sau_đó đã xin số điện_thoại của D . và đến 18 giờ cùng ngày thì liên_lạc lại mua 10 con gà và yêu_cầu chị D . chuyển đến khu_vực chợ C13 , P.Thanh Trường .
+",1,1,2,0,1,1,-1,2,1
+128045,2733,"Đến khoảng 18 giờ 30 , theo yêu_cầu của khách , chị D . trực_tiếp chuyển gà tới địa_điểm được yêu cầu.",0,1,0,0,0,0,-1,2,0
+128049,2734,"Qua điều_tra , cơ_quan công_an xác_định chị Duyên bị siết cổ đến chết . ",2,1,2,2,2,2,-1,2,2
+128089,2738,"Nhóm đối_tượng 5 người_nghiện với nhiều tiền án tiền sự_ở Điện_Biên đã lên kế_hoạch giam_giữ nạn_nhân trong_suốt 3 ngày và thay_nhau xâm_hại rồi sát_hại ngay trong Tết Nguyên đán.  ",2,1,2,1,1,1,-1,2,1.25
+128090,2738,"Chia sẻ trên báo Người lao_động , Thiếu_tướng Sùng A hồng  GĐ Công_an tỉnh Điện_Biên cho hay ngày 172 , Cơ_quan CSĐT Công_an tỉnh Điện_Biên đã khởi_tố vụ_án , khởi_tố bị_can và tiến_hành bắt tạm_giam 4 đối tượng. ",0,1,1,0,1,0,-1,2,0.5
+128091,2738,"Bao gồm  Bùi_Văn_Công ( SN 1975 ) về tội Giết_người , Cướp tài_sản , Hiếp_dâm , Bắt_giữ người trái pháp_luật , Tàng_trữ trái_phép chất ma túy ; Phạm_Văn_Nhiệm ( SN 1976 ) về tội Giết_người , Hiếp_dâm ; Lường Văn_Lả ( SN 1991 , cùng trú xã Thanh_Nưa , huyện Điện_Biên , tỉnh Điện_Biên ) về tội Giết_người ; Lường_Văn_Hùng ( SN 1991 , trú tại xã Hua_Thanh , huyện Điện_Biên ) về tội  Giết_người . ",1,1,1,0,1,1,-1,2,0.75
+128092,2738,"Cơ_quan CSĐT Công_an tỉnh Điện_Biên phối_hợp với Viện Kiểm_sát , Viện Khoa_học hình_sự  Bộ Công_an và Phòng Kỹ_thuật hình_sự  Công_an tỉnh Điện_Biên đã tiến_hành khai_quật tử_thi nạn nhân Cao Mỹ Duyên để thu_thập dấu_vết làm sáng_tỏ vụ_án do phát_sinh nhiều tình_tiết mới.",0,1,1,0,1,1,-1,2,0.75
+128093,2738,"Cơ_quan công_an đang làm_rõ nhiều tình_tiết như  Vì_sao các đối_tượng lại chọn nữ_sinh Mỹ Duyên là nạn_nhân để thực_hiện hành_vi phạm_tội 
+",0,1,1,0,1,0,-1,2,0.5
+128094,2738,"Vai_trò của người_chủ_mưu trong vụ_án này như_thế_nào  ... Khai_nhận bước_đầu tại cơ_quan điều_tra , ngày 12 ( 27 tháng_Chạp ) , đối_tượng Bùi_Văn_Công đã chủ_mưu , bàn_bạc với Vương_Văn_Hùng sẽ cùng cướp tài_sản và chỉ cướp của chị Duyên .
+",0,1,1,0,1,1,-1,2,0.75
+128095,2738,"    Tính đến 32 ( tức 29 tháng_Chạp ) , Công_hẹn Hùng ra_chợ Mường Thanh để chỉ mặt chị Duyên cho Hùng_biết và bảo_Hùng lấy_số điện_thoại của chị Duyên , sau_đó hẹn nạn_nhân mang gà ra địa_điểm đã chọn để cướp tài_sản .
+",0,1,1,1,1,0,-1,2,0.75
+128096,2738,"Chiều 42 ( tức 30 Tết ) , Vương_Văn_Hùng gọi_điện_thoại cho chị Duyên đặt_mua 10 con gà , yêu_cầu chở đến một ngôi_nhà_hoang ở khu_vực bờ mương đồi Độc_Lập ( thuộc Đội 11 , phường Thanh_Trường , TP Điện_Biên_Phủ ) .
+",0,1,0,0,0,0,-1,2,0
+128097,2738,"Vương_Văn_Hùng đã siết cổ chị Duyên đến_khi nạn_nhân ngất_đi và đưa_vào nhà hoang.Tại đây , các đối_tượng Hùng , Công và Phạm_Văn_Nhiệm thay_nhau hãm_hiếp chị Duyên .
+",2,1,2,0,2,0,-1,2,1
+128098,2738,"Sau_đó , các đối_tượng đưa nạn_nhân lên thùng_xe_tải của_Công .
+",1,1,2,0,2,0,-1,2,1
+128099,2738,"Hùng cho quần , tất của nạn_nhân cùng quần của mình vào một túi ni  lông rồi đem vứt ở vệ đường.",0,1,2,1,2,1,-1,2,1.5
+128102,2738,"Do_vậy , lực_lượng công_an tỉnh đã phối_hợp với các đơn_vị nghiệp_vụ Bộ Công_an làm_việc ngày_đêm trong dịp Tết , bám_sát từng chi_tiết , dấu_vết dù là nhỏ nhất  , thiếu_tướng Sùng A Hồng_khẳng định ",0,1,0,0,0,0,0,2,0
+128160,2744,"Lúc_này Điền và nhóm thanh_niên khác đã lao_vào hành_hung anh Bảo. 2 bên xảy_ra cự cãi , Điền chạy ra quán_ăn chụp con dao đâm 1 nhát trúng ngực anh Bảo làm nạn_nhân tử vong. Ngày 222 , lễ_tang anh Lê_Hoài_Bảo đã diễn_ra . ",2,1,2,2,2,2,2,2,2
+128180,2745,"Tùng ôm anh Thạnh từ phía_sau để Minh_Tuấn và Văn_Tuấn_dùng gạch đánh liên_tiếp vào đầu khiến nạn_nhân tử vong.Sau khi gây_án , 3 thanh_niên trốn khỏi hiện_trường nhưng bị camera an_ninh tại con hẻm ghi_hình .
+",2,1,2,2,2,2,-1,2,2
+128555,2746,"Sau_khi cầm khẩu súng lên và báo cảnh_sát , bà_mẹ thấy con_trai bước lên cầu_thang , một tay_cầm súng nhựa , tay kia cầm dùi_cui điện .
+",1,1,2,2,2,2,-1,2,2
+128557,2746,"Giải_thích lý_do để súng ở xe mà không phải ở trong nhà , ông nói_không muốn các con_động vào.Theo   South Bend Tribune , bé trai 11 tuổi nói đã lên kế_hoạch bắn bố trong_suốt một ngày do bị tịch_thu máy chơi game .
+",1,1,2,2,2,2,-1,2,2
+128581,2748,"Chứng_kiến cảnh bố uống thường_xuyên say rượu , bỏ_bê chăm_nom gia_đình , trong một_lần , Trường đã đá chết đấng sinh thành.Cuối tuần qua , Dương_Xuân_Trường ( 21 tuổi , ở huyện Sóc_Sơn ) bị đưa_ra xét_xử sơ_thẩm tại TAND Hà_Nội , với tội_danh Giết người.   Nạn_nhân là ông Dương_Xuân Chiến ( 48 tuổi ) , bố_đẻ của bị cáo.Tuổi đời còn khá trẻ , đứng trước bục khai_báo , Trường khiến người_mẹ ngồi hàng ghế sau đau_xót .
+",1,1,2,2,2,2,-1,2,2
+128582,2748,"Bà thỉnh_thoảng nấc lên nghẹn_ngào khi mộ chồng còn chưa xanh_cỏ , giờ chứng_kiến cảnh con_trai lớn vướng lao_lý , bị truy_tố tới khung phạt tử_hình .
+",1,1,0,2,0,2,-1,2,1
+128583,2748,"Gương_mặt bà chất_chứa lo lắng.Kinh tế gia_đình eo_hẹp với nghề_nông , khi mới vừa bước_vào cấp 3 ,   Trường phải nghỉ_học sớm để giúp_đỡ bố_mẹ .
+",0,1,0,0,0,0,-1,2,0
+128584,2748,"Cũng trong thời_gian này , Trường phải chứng_kiến việc bố_đẻ thường_xuyên say rượu , bỏ_bê trách_nhiệm lo_toan kinh_tế gia đình.Cuộc sống khó_khăn , kéo_theo những căng_thẳng mỗi_lần ông Chiến say rượu , khiến gia_đình luôn  ngộp thở  .
+",0,1,0,0,0,0,-1,2,0
+128585,2748,"Trường và mẹ thường khuyên_nhủ song ông Chiến không bỏ được rượu .
+",0,1,0,0,0,0,-1,2,0
+128586,2748,"Trong khi mẹ chịu_đựng , Trường đã có những hành_động đánh , đấm bố đẻ.Song ông Chiến vẫn chứng nào tật_đó , tiếp_tục say rượu .
+",1,1,1,1,1,1,-1,2,1
+128587,2748,"Trưa cuối tháng 22018 , thấy bố nằm_ngủ li_bì vì say rượu , Trường nấu_cơm xong , gọi ông dậy   Bố   ăn xong cứ để bát đũa , lát con về rửa  .Bị cáo Trường tại phiên_tòa sơ_thẩm ngày 73.Rời khỏi nhà , đi_chơi đến chiều về thấy ông vẫn chưa tỉnh_rượu , nằm_ngủ , Trường nổi_cơn bực_tức ,   dùng chân đá liên_tiếp vào đầu , vai bố .
+",1,1,2,2,2,1,-1,2,1.75
+128588,2748,"Sau_đó , anh_ta lên giường nằm_ngủ và để_mặc máu từ mồm ông Chiến chảy ra.Chập tối cùng ngày , mẹ và em_trai Trường đi_làm đồng về thấy ông Chiến nằm bất_động trên nền nhà nên truy_hỏi .
+",1,1,2,2,2,2,-1,2,2
+128589,2748,"Đáp_lời , đứa_con_trai bất_hiếu quay ra đá vào đầu bố thêm hai phát và nói   Mẹ lúc_nào_cũng bênh bố  .Lúc này , vợ ông Chiến thấy máu trong miệng chồng vẫn tiếp_tục chảy ra nên lấy giấy ăn lau_chùi và quay sang mắng_mỏ đứa_con_trai .
+",2,1,2,2,2,2,-1,2,2
+128590,2748,"Cùng thời_điểm , một người_hàng_xóm đi ngang qua đã vào can_ngăn việc mẹ_con Trường to_tiếng với nhau.Nhìn thấy ông Chiến nằm bất_động trên nền nhà , người_hàng_xóm này đến lay gọi nhưng không thấy ông phản_ứng gì nên hối_thúc đưa nạn_nhân đi cấp cứu.Đến 23h cùng ngày , ông Chiến tử_vong vì chấn_thương sọ não nặng .
+",2,1,2,2,2,0,-1,2,1.5
+128591,2748,"Sáng hôm_sau , Trường tới trụ_sở công_an đầu thú.   Cũng giống với lời_khai tại cơ_quan điều_tra , trước tòa Trường chỉ thừa_nhận dùng chân đá bố  vài cái  .
+",1,1,0,2,2,2,-1,2,1.5
+128592,2748,"Song chủ tọa công_bố , khám_nghiệm tử_thi , cơ_quan chức_năng xác_định , nạn_nhân bị đa chấn_thương do tác_động ngoại_lực gây nên.Một vị hội_thẩm trong hội_đồng xét_xử cho_hay , vụ_án xảy_ra là bi_kịch của gia_đình Trường .
+",1,1,2,0,1,1,-1,2,1
+128593,2748,"Trong nhiều năm ngồi ghế hội_thẩm , chứng_kiến những vụ_án đau_lòng , bà cho_rằng , các thành_viên phải có những cư_xử đúng_mực , bởi dù_gì ông Chiến cũng là đấng sinh_thành của bị cáo.Nghe chia_sẻ của bà , Trường nín_lặng , ăn_năn , còn người_mẹ ngồi hàng ghế dưới nghẹn_ngào .
+",1,1,1,1,1,0,-1,2,0.75
+128594,2748,"Bà xin cho con_trai một con_đường sống để sớm trở_về gia đình.Kết thúc phiên sơ_thẩm , tòa đã tuyên Trường tù chung thân. ",0,1,0,0,0,0,-1,2,0
+128618,2750,"Sau_đó , Cường cùng Huyền vào phòng quan_hệ tình dục.Khoảng 8h , Cường mang hành_lý định ra sân_bay vào TP HCM biểu_diễn nhưng không đón được xe , quay_lại nhà Thế. 8h10 , anh_ta cùng với Huyền_bị ảo_giác , ngồi vái_lạy nhau , khóc lóc.Thế nghĩ Cường và chị Huyền bị ma nhập nên liên_tục ném tỏi vào người để  trừ_tà  , đồng_thời gọi thày cúng đến .
+",1,1,2,2,2,2,-1,2,2
+128619,2750,"Lúc 9h45 , Cường chạy xuống chân_cầu_thang   bốc một vốc_tỏi của người phụ_nữ bán rau.Cường nhặt các nhánh tỏi ăn , đồng_thời nhét liên_tục vào miệng Huyền .
+",1,1,2,2,2,2,-1,2,2
+128627,2750,"Cường tiếp_tục khẳng_định   Bị_cáo không bị ảo_giác  .Chủ tọa phiên tòa công_bố , khi khám_nghiệm tử_thi , trong khoang miệng cô_gái có 33 nhánh tỏi đủ kích_cỡ , một nhánh nằm ở họng nạn_nhân , gây bít tắc_đường thở là nguyên_nhân gây tử vong.  Một người nhận_thức bình_thường có nhét đầy tỏi vào miệng người_khác hay không   , chủ_tọa hỏi.  Bị_cáo chỉ muốn cứu_giúp Huyền  , Cường nói.Thế và cô_gái còn_lại cũng khai tại tòa , thấy Cường và chị Huyền khóc_lóc gọi và xưng  bà cô tổ  .
+",1,1,2,2,2,2,-1,2,2
+128711,2755,"Hôm_sau , con_trai bà gọi_về , giọng thều_thào mẹ mang tiền cứu con , nếu không con bị người_ta lấy một quả thận rồi tắt máy.Trong lúc bà Lan đang hoảng_loạn , hai người_đàn_ông nói giọng miền Bắc đến tìm .
+",1,1,2,2,2,2,-1,2,2
+128760,2760,"Nhóm người chặn xe , hò_hét , kích_động , dùng vật cứng ném vào cảnh_sát khiến Quốc_lộ 1 kẹt_xe 15 giờ , nhiều chiến_sĩ bị thương.   Ngày 73 , TAND huyện Tuy_Phong ( Bình_Thuận ) tuyên_phạt Hồ_Thái_Hà ( 38 tuổi ) 3 năm 6 tháng tù về tội Gây_rối trật_tự công_cộng .
+",1,1,2,2,2,2,-1,2,2
+128823,2764,"Mẫn còn nghe mẹ nói Vương_đòi trả_tiền thì mới chịu chia tay.Cảnh sát tiếp_tục lần_theo tuyến đường của chiếc xe , phát_hiện sau nửa_đêm chiếc xe chạy lên một cây_cầu nhưng không sang đầu bên_kia , 25 phút sau mới quay trở_lại , biển_số bị tháo .
+",1,1,2,2,2,2,-1,2,2
+128837,2764,"Hắn dùng búa đánh bà Minh ngất_xỉu rồi đẩy vào ghế sau .
+",2,1,2,2,2,2,-1,2,2
+128838,2764,"Khi xe chạy trên cầu , nạn_nhân tỉnh_lại song tiếp_tục bị hắn xuống tay.Trên đường chạy_trốn , hắn dừng_lại ném đồ_đạc của bà Minh_vào bãi_cỏ ven_đường .
+",2,1,2,2,2,2,-1,2,2
+128876,2766,"Khi anh này vừa đến cửa , Quang_bắn 2 phát chỉ_thiên sau_đó bắn liên_tiếp 3 phát vào người nạn_nhân .
+",2,1,2,2,2,2,-1,2,2
+128885,2767,"Lần theo tuyến đường di_chuyển của chiếc xe , cảnh_sát phát_hiện đêm đó chiếc_xe gần_như hoạt_động không ngừng , chạy tới nhiều nơi trong thành_phố , tổng_cộng 60 km.Trong xe chỉ có_thể nhìn_thấy người lái , ghế_phụ và hàng ghế sau không có người .
+",1,1,2,2,2,2,-1,2,2
+128908,2767,"Nhưng Mai_lại đòi trả_ngay lập_tức , sau_đó vào bếp lấy dao ra đe_dọa .
+",1,1,2,2,2,2,-1,2,2
+128961,2769,"Đã_không còn quan_hệ gì , tại_sao vẫn làm_như vậy  .   Nói xong , Thịnh đấm , tát vào mặt , đạp vào người , vào bụng khiến chị Phạm_ngã_xuống đất.Bị tình cũ đánh ngay tại công_ty , trước_mặt các nhân_viên , chị Phạm_lấy chiếc kéo trên bàn làm_việc đâm Thịnh , nhưng không trúng .
+",1,1,2,2,2,2,-1,2,2
+128962,2769,"Người phụ_nữ này bị đối_phương dùng kéo đâm gây thương_tích vùng đầu , tay .
+",1,1,2,2,2,2,-1,2,2
+128981,2771,"Nạn_nhân nằm trên sofa trong phòng_khách , vùng mặt có vết tụ_huyết , hai đầu_gối có vết_thương nhẹ , ngoài_ra không có vết_thương nào.Khải khai_định cùng vợ đi xem phim vào buổi_chiều song không_ngờ Lệ_bị trượt_ngã khi vào nhà_vệ_sinh rửa_mặt , sau_đó kêu đau đầu .
+",2,1,2,2,2,2,-1,2,2
+128982,2771,"Khải_dìu vợ vào phòng_ngủ nằm và 17h gọi dậy ăn_cơm thì phát_hiện tình_hình không ổn.Kết quả pháp_y cho_hay đầu_gối chỉ bị trầy_da , phù_hợp với vết_thương do bị ngã .
+",1,1,2,2,2,2,-1,2,2
+128998,2771,"Tuy_nhiên pháp_y cho_rằng vẫn không loại_trừ khả_năng Lệ bị_giết , bởi_vì các cơ_quan nội_tạng có đặc_điểm phù_hợp với chết do ngạt_thở vì tác_động_vật lí ( như bị bóp_cổ , siết cổ , bịt chặt mũi miệng , đè chặt bằng gối ) .
+",1,1,2,2,2,2,-1,2,2
+129003,2771,"Khải_nói sau khi vợ bị ngã trong nhà_vệ_sinh , hắn đỡ vợ vào giường nằm , sau_đó dùng máy_tính trong phòng_khách lên mạng giết thời gian.Để xác_minh tính chân_thực trong lời_khai của Khải , cảnh_sát xem lại lịch_sử duyệt web ngày hôm_đó , lại phát_hiện buổi_chiều cùng ngày không có hoạt_động nào .
+",1,1,2,2,2,2,-1,2,2
+129028,2772,"Chị Trân liên_tục kêu_oan , cho_rằng ôtô tải bất_ngờ chạy vào làn_xe máy quẹt vào tay_lái khiến chị mất thăng_bằng . ",0,1,2,2,2,2,-1,2,2
+129040,2773,"Ông Châu khai chém_chết vợ do bất_đồng quan_điểm về việc đi khám cho đứa_con bị_bệnh down.",2,1,1,1,1,0,-1,2,0.75
+129041,2773,"Ông Châu đang phải đối mặt với cáo_buộc phạm_tội Giết_người , theo điều 123 Bộ_luật Hình sự 2015.Theo nhà_chức_trách , ngày 192 , do mâu_thuẫn gia_đình , ông Châu cầm dao_rựa dài 30 cm tấn_công vợ Chu_Thị_Hà ( 56 tuổi ) khiến tử_vong .
+",2,1,2,0,1,0,-1,2,0.75
+129042,2773,"Sau gây_án , ông ra bãi_biển xã Xuân_Liên định tự_tử song bị công_an xã phát_hiện , khống_chế đưa_về trụ sở ",1,1,0,0,1,0,-1,2,0.25
+129043,2773,"Vợ chồng ông Châu có ba con , cậu_cả bị_bệnh Down , hiện chưa lập gia_đình . ",0,1,0,0,0,0,-1,2,0
+129044,2773,"20 năm trước , bà Hà_rời quê đi sang Hàn_Quốc xuất_khẩu lao_động .
+",0,1,0,0,0,0,-1,2,0
+129045,2773,"Ông Châu ở_nhà đi_làm thuê , chăm_lo cho các con.    Bà Hà_vài năm_mới về một_lần .
+",0,1,0,0,0,0,-1,2,0
+129046,2773,"Hai tháng_trước bà_ấy về_quê ăn Tết , định sắp tới sẽ ra nước_ngoài tiếp .
+",0,1,0,0,0,0,-1,2,0
+129047,2773,"Nhờ tiền vợ gửi về , ông Châu tích_góp xây được căn_nhà khang_trang , cuộc_sống thuộc hàng khá trong thôn  , một người họ_hàng nói.Cán bộ công_an cho_hay , quá_trình lấy lời_khai , ông Châu phủ_nhận sát_hại vợ do ghen_tuông , cho_hay nguyên_nhân do bất_đồng quan điểm ",0,1,1,1,1,0,-1,2,0.75
+129048,2773," Ngày 192 , bà Hà_muốn đưa cậu con_trai đầu đi Hà_Nội khám_bệnh , ông Châu nói mới ra Tết , để từ từ vài hôm nữa . ",0,1,0,0,0,0,-1,2,0
+129049,2773,"Hai_vợ_chồng sau_đó to_tiếng  , một điều_tra_viên nói.Khám nghiệm hiện_trường , nhà_chức_trách xác_định bà Hà_chết do bị nhiều nhát chém , song ông Châu_khai chỉ cứa vào cổ một nhát.",2,1,2,2,2,2,-1,2,2
+129050,2773,"Chồng vào tù , vợ mất , ai sẽ lo_cho người con_bệnh_tật đây  , người_hàng_xóm buồn_rầu nói ",0,1,1,1,0,1,-1,2,0.75
+129058,2774,"Băng ghi_hình cho_thấy cô_gái nằm dưới sàn cầm điện_thoại nhắn_tin , nhưng khi vừa nghe_thấy tiếng thang_máy , Jessica Krecskay lập_tức bỏ điện_thoại xuống , vờ như bị ngất.Một số đồng_nghiệp càng thêm nghi_ngờ khi Jessica Krecskay tỏ_ra giấu_giếm , giữ_kín thông_tin tình_trạng bệnh.Năm 2017 , cảnh_sát thành_phố Edgewood phanh_phui một vụ vờ bị ung_thư để lừa_đảo .
+",1,1,2,2,2,2,-1,2,2
+129111,2778,"Sát_hại con_gái 8 tuổi và ném xuống sông ở Đà_Nẵng , Hời_nhắn_tin thông_báo cho người_tình ở Hàn Quốc.Ngày 262 , đại_tá Trần_Mưu ( Phó_giám_đốc , Thủ_trưởng Cơ_quan cảnh_sát điều_tra Công_an Đà_Nẵng ) trực_tiếp xuống canô chỉ_đạo tổ công_tác tìm_kiếm thi_thể bé_gái 8 tuổi bị cha sát_hại , phi_tang xác xuống sông Hàn .
+",2,1,2,2,2,2,-1,2,2
+129112,2778,"Tuy_nhiên , hai ngày_qua , việc tìm_kiếm chưa có kết_quả dù hàng_chục cảnh_sát cứu_hộ , cứu_nạn và nhiều thợ_lặn liên_tục  quét  ở khu_vực gầm cầu Thuận_Phước ( nối quận Hải_Châu và Sơn_Trà ) . ",0,1,2,2,2,2,-1,2,2
+129113,2778,"Việc tìm_kiếm gặp khó_khăn  , đại_tá Mưu nói.Công an thông_báo cho các ngư_dân ở khu_vực cửa_sông Hàn_để cùng phối hợp.  Chúng_tôi sẽ thưởng_cho ai tìm thấy nạn_nhân  , đại_tá Mưu cho hay.",0,1,2,0,0,0,-1,2,0.5
+129114,2778,"Công an xác_định Hời sát_hại con_gái vào hôm 12 rồi_nhắn_tin báo cho người_tình Hàn_Quốc vừa bỏ_về nước do giận dỗi.  ",2,1,1,0,1,0,-1,2,0.5
+129115,2778,"Anh_ta đề_nghị gia_đình cử người vào Đà_Nẵng cùng tìm_kiếm con.   Hời khai   phi_tang xác con_gái ở khu_vực chân_cầu Thuận_Phước .
+",2,1,0,0,1,0,-1,2,0.25
+129116,2778,"Theo người_thân , khi con_gái đầu_lòng chào_đời , Hời sang Hàn_Quốc làm_việc và quan_hệ tình_cảm với cô_gái địa_phương hơn 5 tuổi.   Hời về_nước và vợ_chồng có thêm hai con_trai sinh_đôi . ",0,1,0,0,0,0,-1,2,0
+129117,2778,"Khi ly_hôn năm 2018 , Hời nhận nuôi_con gái đầu .
+",0,1,0,0,0,0,-1,2,0
+129118,2778,"Từ đây , anh_ta không liên_lạc với gia_đình vợ cũ , không cho_biết đang ở đâu , ai gọi_điện_thoại cũng quát_mắng .
+",0,1,0,0,0,0,-1,2,0
+129119,2778,"Trên_tài_khoản Facebook , Hời   không đăng_tải hình_ảnh hay cập_nhật thông_tin về con gái.Nhà chức_trách cho_hay , từ tin báo của gia_đình bà_ngoại cháu bé , Hời bị_bắt vào sáng   252 , khai không sử_dụng ma_túy trước_khi gây_án .
+",1,1,0,0,0,0,-1,2,0
+129120,2778,"Hời khai bực vì chuyện con_riêng và vợ cũ khiến người_tình bỏ_về nước nên   siết cổ con_gái tại khách_sạn ở quận Sơn_Trà , phi_tang xác ",2,1,2,0,2,0,-1,2,1
+129131,2780,"Vợ bỏ_nhà , sang chòi vịt ở_chung với phụ_nữ khác , người_đàn_ông ở Bến_Tre khuyên nhiều lần không_được nên giết_chết cả hai.",2,1,1,1,1,0,-1,2,0.75
+129132,2780,"Nghi phạm Trần_Thành_Hổ ( 45 tuổi , chồng của một trong hai nạn_nhân ) liên_tục khóc , quỳ xuống bên mộ vợ khi bị dẫn_giải trở_về nhà ",1,1,2,2,2,2,-1,2,2
+129133,2780,"Hàng trăm người_dân địa_phương hiếu_kỳ đã đến_xem , nhiều người vẫn còn bàng_hoàng vì nghi phạm ngày_thường hiền_lành , ít nhậu_nhẹt , cũng không cờ bạc.  Trước_đây vợ_chồng nó nghèo , mở tiệm sửa xe_đạp kiếm_sống , sáu năm trước thằng Hổ trúng ba tờ vé_số độc_đắc hơn 4 tỷ đồng . ",0,1,2,1,0,0,-1,2,0.75
+129134,2780,"Tưởng_nhà nó đổi_đời , ai_ngờ lại tan_nát như bây_giờ  , một người_thân của Hổ nói.Theo gia_đình , sau khi trúng_số , vợ_chồng mua miếng_đất sát quốc_lộ cất_nhà , mở tiệm sửa xe_máy , sau_đó kinh_doanh shop quần_áo , hơn một năm trước chuyển sang quán nhạc sống .
+",0,1,0,0,0,0,-1,2,0
+129135,2780,"Thời_gian này , họ quen_với người phụ_nữ 51 tuổi ở địa_phương , đã có gia_đình , con cái.Hai vợ_chồng bắt_đầu xảy_ra xích_mích vì vợ Hổ nghi chồng có phụ_nữ khác .
+",0,1,0,0,1,0,-1,2,0.25
+129136,2780,"Sau_đó , cả_hai đã làm_lành , nhưng cô vợ thường_xuyên bỏ_nhà , sang chòi giữ vịt trên đất của gia_đình cách đó một cây_số để ở_chung với người phụ_nữ quen_biết .
+",0,1,2,2,0,0,-1,2,1
+129137,2780,"Nghi phạm nhiều lần can_ngăn không_được , đã đe_dọa nếu không chấm_dứt mối quan_hệ đồng_giới , sẽ giết cả_hai nhưng bị vợ phớt lờ.",2,1,2,2,2,2,-1,2,2
+129138,2780,"Nghe tiếng đàn vịt kêu , vợ Hổ tỉnh_giấc ra xem . ",0,1,0,0,0,0,-1,2,0
+129139,2780,"Gã xông vào chòi , dùng dao sát_hại bạn ngủ chung với vợ tử_vong tại_chỗ .
+",2,1,2,2,2,2,-1,2,2
+129140,2780,"Vợ Hổ nghe_tiếng động trở vào chòi , phát_hiện sự_việc nên quỳ xin chồng tha_chết , nhưng nghi phạm trả_lời  trễ rồi  .Sau khi gây_án , Hổ chạy lên cầu Hàm_Luông , đồng_thời gọi_điện cho con báo mình sắp tự_tử , yêu_cầu con lên cầu lấy xe.   Hai người con , đang là sinh_viên tại TP HCM , nghi có_chuyện chẳng lành nên đến chòi vịt tìm mẹ thì phát_hiện hai nạn_nhân đã tử vong.Riêng Hổ khi nhảy xuống sông đã được một người lưới cá phát_hiện cứu sống.Công an tỉnh Bến_Tre đã khởi_tố vụ_án , bị_can và bắt_giam Hổ để điều_tra về hành_vi Giết người ",2,1,2,2,2,2,-1,2,2
+129142,2781,"Một lần_sang Trung_Quốc , anh thấy tài_xế ở_đây sử_dụng nhiều hình_thức vách bảo_vệ nên tranh_thủ tìm_hiểu ưu , nhược_điểm từng loại.Cuối tháng 1 , trước vụ_án tài_xế bị cứa_cổ tử_vong , chết sau khi bung cửa chạy ra đường ở khu_vực cổng sau sân_vận_động Mỹ_Đình , Hà_Nội , anh Thành càng thấy bất_an nên gấp_rút  biến ước_mơ thành_sự thật  .
+",1,1,2,2,2,2,-1,2,2
+129150,2782,"Thấy xe của Trung_văng xuống ruộng , trinh_sát lao đến định  bắt_sống  thì bất_ngờ bị hắn rút súng đe doạ.Trung và Tuấn cố_thủ sau khi xe lao_xuống ruộng.Tháng 62018 , Phòng cảnh_sát điều_tra tội_phạm về ma_túy ( Công_an Hà_Tĩnh ) phát_hiện đường_dây ma túy xuyên quốc_gia do Nguyễn_Thành_Trung ( 34 tuổi , trú xã Sơn_Tây , huyện Hương_Sơn ) cầm đầu.  Hàng  được nhập từ Tam_giác vàng , qua Lào vận_chuyển về Việt_Nam tại cửa_khẩu Cầu_Treo ( huyện Hương_Sơn ) .Trung tuần tháng 22019 , trinh_sát ngoại biên báo_tin Trung_chuẩn_bị nhập lô ma_tuý lớn đưa qua cửa_khẩu Cầu_Treo ( huyện Hương_Sơn ) , Công_an Hà_Tĩnh cử lực_lượng khảo_sát các cung đường , lên sơ_đồ chặn bắt.Khoảng 13h ngày 152 , Trung_cùng Nguyễn_Anh_Tuấn ( 28 tuổi ) và Nguyễn_Hữu_Phước ( 21 tuổi ) , lái ôtô bán_tải không biển_số và chiếc Fortuner biển Gia_Lai , chở gần 10 kg ma túy đá và 2.000 viên ma_túy tổng_hợp , chạy trên quốc_lộ 8A từ cửa_khẩu Cầu_Treo xuôi về trung_tâm huyện Hương Sơn.Ôtô Innova của cảnh_sát bị xe bán_tải của Trung_tông móp_đuôi .
+",2,1,2,2,2,2,-1,2,2
+129157,2782,"Tuy_nhiên , phương_án này đã không áp_dụng , thay vào đó chiếc Innova chở trung_tá Tuấn cùng ba cán_bộ đã vượt lên , cố_tình để_cho chiếc bán_tải đâm vào đuôi.Sau cú tông mạnh , xe bán_tải lao_xuống ruộng .
+",1,1,2,2,2,2,-1,2,2
+129160,2782,"Hàng_chục công_an được lệnh nằm rạp xuống , dạt vào hai bên đường.Bị vâp_ráp , Trung_cố lái ôtô từ dưới ruộng lên_đường .
+",0,1,2,2,2,2,-1,2,2
+129162,2782,"Một cán_bộ tham_gia đánh án kể , quá_trình bao_vây Tuấn và Trung , anh không_may nằm trúng ổ_kiến_lửa .
+",0,1,2,2,2,2,-1,2,2
+129172,2783,"Anh_ta thừa_nhận cùng 3 đồng_phạm chém nạn_nhân .
+",2,1,2,2,2,2,-1,2,2
+206482,123,"Cưỡng hiếp cháu bé 5 tuổi , ném nạn_nhân xuống giếng bỏ_mặc đến tử_vong ở Bình Phước Nguyễn Văn Hưng ( 33 tuổi , ngụ xã_Tiến_Hưng , thị_xã Đồng_Xoài , Bình_Phước ) .Khoảng 8h ngày 1132018 , Hưng đến nhà bà Đ.T.V ( xã_Tiến_Hưng ) để lấy xe_máy thì được bà V . nhờ vào nghĩa_trang thị_xã Đồng_Xoài gắn giúp ống cắm lên nhang mộ của chồng .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206483,2547,"Quá_trình khám_nghiệm hiện_trường , cảnh_sát ghi_nhận nạn_nhân bị mất điện_thoại iPhone 6S , máy_tính Macbook Air .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206484,2547,"Hắn lấy chiếc Macbook Air , điện_thoại của anh Cường_bỏ vào balô rồi thoát bằng lối ban_công về_nhà nghỉ.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206485,2547,"Trưa 278 , Trường bị lực_lượng công_an phát_hiện , bắt giữ.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206486,2547,"Tìm hiểu từ phía người_thân được biết , nạn_nhân mới 18 tuổi vừa thi_đỗ vào_trường ĐH Bách_khoa Hà_Nội và chuẩn_bị nhập học. ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206487,2551,"Sau khi ra_tay với nạn_nhân , Cường định cởi áo nạn_nhân để lau tay dính máu nhưng không_được nên đã cởi quần của nạn_nhân để lau , rồi kéo xác nạn_nhân ra ngoài định phi_tang .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206488,2556,"Nguyên quay đầu cùng các đệ_tử vội lên ôtô và xe_máy bỏ_chạy .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206489,2564,"Do phát_hiện nhiều nữ_công_nhân thường đi_làm bằng xe_buýt rồi đi_tắt qua hàng_rào KCN   nên tiếp_cận gây_án. Khoảng 6h45 ngày 269 , chị Mỹ Tình ( SN 1992 , ngụ tỉnh Tiền_Giang , là công_nhân ) chui qua hàng_rào để đi_bộ trên đường Vanh đai khu công_nghiệp quận 9 thì bị Của chặn lại.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206490,2580,"Liên quan đến vụ_việc   nam thanh_niên đâm người_yêu cũ trọng_thương trên phố Bùi_Thị_Xuân ( quận Hai_Bà_Trưng ) vào đêm 1410 , trao_đổi với PV Trí_thức trẻ dưới góc_độ pháp_lý của vụ_việc , Luật_sư Nguyễn_Anh Thơm  Trưởng văn_phòng Luật Nguyễn_Anh ( đoàn Luật_sư TP Hà_Nội ) cho_biết  Quyền_sống là một trong những quyền cơ_bản nhất của con_người đã được Hiến_pháp và pháp_luật bảo_vệ .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206491,2580,"Nạn_nhân được các bác_sĩ tiến_hành sơ_cứu rồi đưa_đến Bệnh_viện Thanh Nhàn",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206492,2585," Ngay sau_khi gây_án , đối_tượng Vũ_đã bị người_dân báo lực_lượng công_an đến khống_chế và bắt_giữ tại chỗ.Cổng rào nhà ông Nguyễn_Văn_Tâm_bị Vũ chặt phá.Ông Phạm_Văn_Thành ( cha Phạm_Văn_Vũ ) cho_biết , trước_khi xảy_ra vụ_việc , thần_kinh Vũ_không ổn_định , thường kiếm_cớ gây_sự với người xung quanh.  Cách_đây 3 hôm nó có xô_xát với một người địa_phương bị công_an mời nhưng được thả về .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206493,2594,"Trước mắt , đơn_vị này chỉ_đạo phía nhà_trường phối_hợp chặt với cơ_quan công_an để điều_tra làm_rõ vụ_việc .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206494,2594,"Một giáo_viên dạy lịch_sử cho_biết   Cả hai em đều là giáo_viên trẻ của trường , tính_tình hiền_lành , lễ_phép , dễ_thương , ai cũng quý .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206495,2596,"Gây án xong , Tiếp lấy chiếc xe_máy hiệu Yamaha , biển_số 12P bỏ_trốn đến khoảng 10h ngày 3010 bị công_an bắt_giữ tại địa_phận tại thôn Phai_Luông , xã Hợp_Thành , huyện Cao Lộc.Tại công_an , Tiếp khai_nhận thời_điểm đó , anh_ta đi_chơi cùng bạn_bè về_nhà thì nghe_thấy mẹ đang nói_chuyện với hàng_xóm và ca_cẩm về thói hư , ăn_chơi lêu_lổng , không chịu làm_ăn của mình.Bực tức , Tiếp cãi_lại rồi đi xuống bếp lấy con_dao nhọn cán gỗ lên_nhà .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206496,2612,"Khi đến khu_vực chợ Tân_Hòa ( huyện Gò_Công_Đông , Tiền_Giang ) , Thúy_thấy anh H . đang bán vé_số liền rủ nhau tìm nơi vắng_vẻ để  tâm_sự  .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206497,2612,"Trước đó , bị_cáo Thúy bị TAND tỉnh Tiền_Giang tuyên_phạt mức án_tử_hình về 2 tội_danh như trên .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206499,2612,"Tại phiên_tòa hôm_nay , bị_cáo Thúy chỉ thừa_nhận sát_hại nạn_nhân thứ 3 , không liên_quan tới cái chết người thứ_nhất .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206500,2612,"Hồ sơ vụ_án xác_định , khoảng 14h ngày 1412017 , Thúy đi bán vé_số thì gặp đồng_nghiệp là anh Lê Văn H . ( SN 1992 , ngụ tỉnh Tiền_Giang ) .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206501,2612,"Để thực_hiện ý_định , Thúy đến điểm bán vật_tư nông_nghiệp và thuốc trừ_sâu mua bịch chất xyanua với giá 20.000 đồng .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206502,2612,"Khoảng 15 phút sau , anh H . ngấm thuốc nằm_gục xuống đất .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206503,2612,"Sau khi quan_hệ tình_dục , Thúy lợi_dụng lúc anh H . không để ý , bỏ chất_độc vào ly cà_phê đưa_cho anh này uống.",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206504,2612,"Đến khuya cùng ngày , người_dân địa_phương phát_hiện anh H . gục chết trên bãi đất trống nên trình_báo cơ_quan chức_năng .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206505,2612,"Sau đó , chủ_quán cà_phê ra dọn_dẹp thì phát_hiện ông T . nằm chết nên trình_báo công_an .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206506,2612,"Cả hai thống_nhất gặp_nhau tại quán cà_phê sân vườn kể_trên .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206507,2612,"Vào cuộc điều_tra , sau 2 ngày khoanh_vùng đối_tượng gây_án , Công_an tỉnh Tiền_Giang xác_định Thúy là nghi can số 1 nên tiến_hành bắt_giữ .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206508,2612,"Sau khi nghị_án , HĐXX nhận_thấy vụ_án có tình_tiết mới nên quyết_định tạm_ngưng phiên_tòa để triệu_tập thêm nhân_chứng cũng_như điều_tra viên tới tòa.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206509,2612,"Theo lời_khai của Thúy , do bị các chủ_nợ đòi_tiền và đang lo_lắng vì chưa kiếm được tiền trả_nợ .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206510,2612,"Sau khi quan_hệ xong , Thúy_dụ ông T . vào quầy mua giùm một chai_nước .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206511,2612,"Được một_lúc uống cà_phê , nạn_nhân bị ngấm chất_độc nên kêu mệt và nằm_gục trên võng .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206512,2620,"Do tin_tưởng đó là công_nhân của chung_cư , người phụ_nữ mở_cửa thì Việt cầm một số giày_dép để bên_ngoài , vứt vào trong nhà.     Sau_đó , Việt nói với chị này   Phải đục sàn đến sát cửa  .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206513,2620,"Việt dọa chủ_nhà là được người_khác   thuê giết cả_nhà   với giá 25.000 USD khiến chủ_nhà sợ_hãi van_xin thì Việt nói chị này đi lấy tiền.",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206514,2620,"Người phụ_nữ mở tủ đựng đồ , lấy một tỷ đồng gồm hai cọc mệnh_giá 500.000 để vào túi giấy màu_nâu theo yêu_cầu của Việt.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206515,2620,"Lúc này , Việt lấy điện_thoại giả_vờ gọi và nói   Chúng_mày đi về đi , không_phải canh ở cổng trường nó nữa , nhìn chị này tao không_nỡ giết , đem tiền kia trả cho người_ta  rồi tiếp_tục yêu_cầu nữ chủ_nhà rút đầu thu camera , đầu thu kỹ_thuật số , cho vào túi để anh_ta mang đi.  ",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206516,2620," Trước_khi bỏ_trốn , tên cướp nói_với nạn_nhân không được báo_công an.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206517,2620,"Số tiền cướp được Việt trả_nợ 500 triệu cho một phụ_nữ ở phố Huế ( quận Hai_Bà Trưng ) , đưa_cho mẹ_đẻ 190 triệu đồng để trả một_số người .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206518,2620,"Ngày 410 , Việt đi xe khách lên nhà_bạn ở Phú_Thọ chơi , hôm_sau về Hà_Nội thì bị_bắt giữ.Tại cơ_quan công_an , Việt thừa_nhận hành_vi .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206519,2666,"Theo hồ_sơ , sáng_ngày 19112016 , ông Ngô_Văn_Sơn lái_xe Toyota Innova 8 chỗ chở 10 hành_khách đi ăn_cưới ở TP Thái_Nguyên , có chạy trên tuyến cao_tốc Hà_Nội  Thái_Nguyên .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206520,2666,"Tài xế Sơn bị_cáo buộc vi_phạm 3 lỗi  Không được lùi xe ở khu_vực cấm dừng trên_cao tốc , điều_khiển ô_tô trên đường khi có nồng_độ cồn và chở khách vượt_quá số_người quy_định .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206521,2666," Do phía_sau có ô_tô khác đang vượt lên , Hoàng_không_thể chuyển làn rồi tông vào đuôi chiếc Innova khiến 4 người tử_vong tại_chỗ , 2 người bị thương.",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206522,2666,"Đến gần nút giao , thấy chiếc Innova phía_trước cách khoảng 70 m đang bật_đèn phanh đỏ , tài_xế Hoàng_không phanh giảm_tốc mà quan_sát gương chiếu hậu.    ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206523,2666,"Vào tháng 52018 , tòa sơ_thẩm quyết_định tuyên_phạt Ngô_Văn_Sơn 10 năm tù , Lê Ngọc Hoàng 8 năm tù .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206524,2687," Nạn_nhân duy_nhất trong nhà còn sống_sót là Đinh_Thị_Ngọc_Ánh ( 17 tuổi ) hiện vẫn chưa hết bàng hoàng. ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206525,2687,"Khi những người xung_quanh đến thì phát_hiện chị Đinh_Thị_Ngọc_Ngân ( SN 1994 , chị_ruột chị Ánh ) và mẹ là bà Lê Thị Hoa   ( SN 1974 ) cùng con_trai chị Ngân là Phan_Ngọc_Anh ( SN 2013 ) đã tử_vong .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206526,2687," Hiện phía cơ_quan công_an cũng chưa xác_định được nghi_can đang ở đâu , toàn_bộ điện_thoại trong nhà của nạn_nhân cũng không_còn khu vụ_án xảy ra.  ",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206527,2687,"Thông tin cũng cho_biết thêm , chị Ngân từng có một_đời chồng và sinh được bé trai.       Sau khi chia_tay , chị Ngân gặp Khoa .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206528,2687," Theo chia_sẻ của người cô chị Ngân  Hai năm trước , mẹ Ngân không đồng_ý nhưng nó thương thằng này quá nên mẹ Ngân nói muốn làm_gì thì làm .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206529,2687,"Cha của bé Anh khi hay_tin con_ruột mình bị sát_hại , đã đến hiện_trường và ngất_xỉu .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206530,2687,"Đêm xảy_ra vụ_án mạng , cha của Ngân là ông Đinh_Văn_Trung_do nuôi cha_ruột ở bệnh_viện nên không có ở nhà.   ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206531,2697,"Căn cứ kết_quả khám_nghiệm , cơ_quan điều_tra xác_định bà Ng. bị sát hại.     ",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206532,2697,"Qua khám_nghiệm tử_thi , cho_thấy nạn_nhân bị nhiều vết đâm , chém , trong_đó có 3 vết_thương do vật sắc nhọn gây_ra ở xung_quanh vùng cổ , gây rách tĩnh_mạch cảnh , nạn_nhân chết do sốc mất_máu cấp.",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206533,2697,"Tiếp nhận thông_tin , Công_an huyện An_Lão phối_hợp với Phòng Cảnh_sát Hình_sự ( PC45 ) , Phòng Kỹ_thuật hình_sự ( PC54 ) , Công_an TP.Hải Phòng vào_cuộc điều tra.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206534,2697,"Cơ quan điều_tra thu_giữ tại nhà Phú sợi_dây_chuyền đối_tượng cướp của bà Ng .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206535,2697,"Tới 4h ngày 158 , khi Phú đang nằm_ngủ tại nhà_riêng ở quận Kiến_An thì cảnh_sát ập vào bắt giữ.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206536,2697,"Đến khoảng 4h ngày 158 , tổ công_tác Phòng PC45 phối_hợp cùng Công_an huyện An_Lão , Công_an quận Kiến_An nhanh_chóng truy_bắt Phú.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206537,2708,"Khi chồng tôi tỉnh_dậy thì tiếp_tục vật_lộn với đối_tượng Tiến .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206538,2708,"Theo lời kể của chị Ngọt , Tiến_liền nắm_lấy tóc chị đập đầu vào tường , dùng dao cắt_cổ nhưng may chị chống_cự được , nên vết cắt chỉ sượt qua bên ngoài. ",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206539,2708,"Nói về việc sát_hại nhiều người , Tiến cho_biết , nhà anh Hoạt không có vấn_đề gì .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206540,2708,"Khi đó , tôi bế con chạy thẳng ra ngoài , nhưng vẫn bị Tiến_cố với đâm theo .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206541,2708,"Theo Tiến , đáng ra hôm_nay ( 259 ) con_gái đưa_xuống Bạch Mai_xem sức_khoẻ ra_sao .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206542,2708,"Tin tức từ Tiền_Phong cho_hay , tại cơ_quan công_an , Đối_tượng Tiến cho_biết , nguyên_nhân bột_phát trên do trước_đây vợ anh Nguyên_đi lấy nước có nói già rồi lấy nước như và văng_tục ngoài đồng.       Tôi nghĩ vì nó ít_tuổi nên không nói_lại nên về nghĩ bực_tức rồi không ngủ được , thần_kinh rối_bời – nghi phạm Tiến nói.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206543,2708,"Tôi không nhớ chính_xác vào vụ nào nhưng sự_việc thì tôi nhớ_rõ .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206544,2708,"Cách_đây gần một năm , trong_khi ra_đồng lấy nước vào ruộng_lúa giữa chị Ngọt và Tiến đã xảy_ra xích mích.    ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206545,2708,"Chị Ngọt vẫn chưa hết bàng_hoàng khi nhớ_lại sự_việc .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206546,2708,"Về tình_trạng sức_khoẻ của bệnh nạn_nhân nhỏ tuổi nhất trong vụ thảm_sát là   Vũ_Đức_Nhân , trao_đổi với PV Tri_Thức trực_tuyến , bác_sĩ Đặng_Quang_Dũng ( Khoa gây_mê hồi_sức ) cho_biết , bệnh nhi bị_đứt khí_quản , đứt mạch cổ , mất_máu nhiều và hôn_mê khi nhập_viện .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206547,2727,"Người cha chết tức_tưởi khi bị hiểu_lầm là kẻ_bắt_cóc khi đang chơi_đùa với con_trai .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206548,2727,"Tại cơ_quan điều_tra , Điền_khai sau khi đi_nhậu đã trở_về nhà sau_đó ra công_viên thị_trấn Hậu Nghĩa hóng_mát .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206549,2727,"Cụ bà bán vé_số không_ngờ sự_cảnh_giác của mình phút_chốc đã gây_ra thảm_án hết_sức đau_lòng khiến con mất cha , vợ mất chồng.   ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206550,2727,"Nạn nhân thiệt_mạng khi bị hiểu_lầm là kẻ_bắt_cóc khi đang chơi_đùa với con_trai 4 tuổi ở khu_vực công_viên gần nhà.",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206551,2727,"2 bên xảy_ra cự cãi , Điền chạy ra quán_ăn chụp con dao đâm 1 nhát trúng ngực anh Bảo làm nạn_nhân tử vong.",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206552,2727,"Trường hợp , các cá_nhân này khống_chế để nam thanh_niên dùng dao đâm nạn_nhân thì sẽ bị truy_cứu trách_nhiệm hình_sự về tội  Giết_người  với vai_trò đồng_phạm giúp sức.Còn trường_hợp , khống_chế để hành_hung trấn_áp , không nhằm mục_đích tước_đoạt tính_mạng của nạn_nhân , những người tham_gia này có_thể bị truy_cứu trách_nhiệm về tội  Cố_ý gây thương_tích  hoặc  Gây tổn_hại cho sức_khỏe của người_khác dẫn đến hậu_quả chết người  .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206553,2727,"Trao đổi với phóng_viên Trí_thức trẻ về hành_vi của các đối_tượng , luật_sư Võ_Thị_Anh_Loan ( Đoàn_luật_sư TP.HCM ) , cho_rằng vai_trò của những cá_nhân tham_gia khống_chế và đánh nạn_nhân cũng sẽ phải được xem xét.",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206554,2727,"Nguyên_nhân chính xảy_ra vụ_việc không_phải từ bà_lão mà từ phía nhóm thanh_niên .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206555,2727,"Dù_cho lời_nói lúc_đó của tôi với mục_đích tốt đi nữa thì tôi cũng chính là người gián_tiếp gây_ra cái_chết cho người_cha tội_nghiệp này .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206556,2727,"Theo cụ Gắt thì bà chỉ nói thế_thôi nhưng không_biết vì đâu mà nhiều thanh_niên sau_đó xuất_hiện , đánh dã_man anh Bảo và gây_ra cái chết hết_sức đau lòng. ",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206557,2727,"Thể hiện quan_điểm của mình , luật_sư Loan cho_rằng vụ_án mạng đau_lòng này là hồi chuông cảnh_báo cho tình_trạng tràn_lan những tin_đồn thất_thiệt thiếu căn_cứ xảy_ra trong thời_gian gần_đây , đặc_biệt là trên các trang mạng xã hội.Sau vụ_việc , cụ_bà bán vé_số cảm_thấy rất ân_hận , không_ngờ sự_cảnh_giác của mình phút_chốc đã gây_ra thảm_án hết_sức đau_lòng khiến con mất cha , vợ mất chồng.Chia sẻ với PV Dân_trí , bà Dương_Thị_Gắt ( 86 tuổi ) lộ_rõ sự_lo_lắng khi suốt 2 đêm_qua bà không ngủ được , sống trong nỗi_khổ đau dằng_dặc và trách_mình gián_tiếp gây_ra vụ_án đau_lòng khiến người_cha trẻ ra_đi tức tưởi.   Thấy thằng_bé bị người_đàn_ông ( sau_đó được xác_định là anh Lê_Hoài_Bảo , 30 tuổi , quê tỉnh Kiên_Giang là ba cháu bé  PV ) nắm_tay lôi kéo_lên xe , trong_khi nó không chịu , cứ dùng_dằng bỏ_chạy , cùng với việc thường nghe nhiều về chuyện bắt_cóc con_nít , tôi mới kêu lên rằng chú làm_gì vậy , bỏ nó ra , bắt_cóc con_nít hả , cụ Gắt kể lại.",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206558,2733,"Tuy nhiên , sau hơn 2 giờ đồng_hồ đi giao_hàng , gia_đình không liên_lạc điện_thoại được cho con_gái , nghi_ngờ có_chuyện không_hay nên vào_lúc 20 giờ cùng ngày đã trình_báo sự_việc cho Công_an TP.Điện Biên Phủ.Quá trình tìm_kiếm từ 30 Tết , đến sáng mồng 3 Tết , gia_đình nhận tin sét_đánh khi lực_lượng chức_năng tìm thấy thị thể chị D.tại khu_vực chuồng chăn_nuôi lợn của một ngôi_nhà vắng chủ ở đội 11 , xã Thanh_Nưa , huyện Điện_Biên ( cách đường_Quốc_lộ 12 khoảng 50m ) trong tư_thế không mặc_quần , nón bảo_hiểm úp lên mặt ",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206559,2738,"Theo đó , vụ_án này đã phát_sinh nhiều tình_tiết mới bất ngờ.   5 đối_tượng trong vụ trọng_án đặc_biệt nghiêm_trọng .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206560,2738," Thông_tin mới nhất trên báo Tri_thức trực_tuyến và Người lao_động cho_hay hôm_qua 182 , Công_an tỉnh Điện_Biên đã tiến_hành họp_báo và công_bố thông_tin vụ_án nạn nhân Cao Mỹ Duyên   sinh_viên Trường ĐH Nông_Lâm Thái_Nguyên , bị sát_hại sau khi mất_tích lúc_đi giao gà ngày 42 ( tức chiều 30 Tết ) .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206561,2738,"Ngày 182 , Cơ_quan CSĐT Công_an tỉnh Điện_Biên cũng đã khởi_tố bị_can và tạm_giam đối_với Vương_Văn_Hùng ( SN 1984 , trú tại huyện Tuần_Giáo , tỉnh Điện_Biên ) về tội Giết_người , Cướp tài_sản , Hiếp dâm.Thông tin cho_biết thêm , cả 5 đối_tượng này đều là thành_phần bất_hảo , từng nghiện ma_túy và có nhiều tiền án tiền sự.Hiện Cơ_quan CSĐT Công_an tỉnh Điện_Biên đang tiến_hành củng_cố chứng   cứ để khởi_tố Lường_Văn_Hùng và Lường Văn_Lả về tội Hiếp_dâm ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206562,2738,"Đến khoảng 1h ngày 52 ( tức ngày 1 Tết ) , Hùng lấy tất_cả tài_sản và xe_máy của nạn_nhân đến khu_vực đội 18 , xã Noong_Luống , huyện Điện_Biên rồi để xe_đó , đi về.   ",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206563,2738,"Đến sáng_ngày 62 ( tức mùng 2 Tết ) , Hùng và Lả đã đến nhà Công_chơi và hiếp_dâm chị Duyên .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206564,2738,"Khoảng 24h ngày 62 ( mùng 2 Tết ) , Vương_Văn_Hùng và Bùi_Văn_Công đã chở chị Duyên trên thùng_xe_tải đến khu_vực Nghĩa_trang Tông Khao ( xã Thanh_Nưa , huyện Điện_Biên ) .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206565,2773,"Ngày 242 , Công_an Hà_Tĩnh cho_biết , nghi can Lê_Hải_Châu ( 61 tuổi , trú thôn Ngư_Tịnh , xã Cương_Gián , huyện Nghi_Xuân ) trong thời_gian bị tạm_giữ đã liên_tục bày_tỏ hối_hận vì lỡ sát_hại vợ vào ba hôm_trước .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206566,2773,"Ông Nguyễn_Văn_Quý , Trưởng thôn Ngư Tịnh , ông Châu trải_qua hai lần tai_biến , thỉnh_thoảng thần_kinh không ổn_định nhưng chưa_từng gây mất_lòng xóm giềng.  Vài tuần_trước , vợ_chồng họ còn đi chúc_Tết cùng_nhau , rất tình_cảm , giờ lại ra nông_nỗi này .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206567,2778," Nghi can Bùi_Văn_Hời khai_bỏ kèm hai hòn_đá lớn khoảng 10 kg nên bao_tải đựng xác bé_gái nặng chừng 30 kg , chắc bị chìm xuống đáy_sông .",2,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206568,2778,"Cô_gái Hàn_Quốc sau_đó thông_báo với nhà bà_ngoại của đứa_trẻ  , đại_tá Mưu nói.Theo mẹ_vợ cũ của Hời , cùng ngày gia_đình bà báo_công_an , hôm 242 , Hời bỗng gọi_điện_thoại tự_thú , nêu nguyên_nhân vì bức_xúc trong chuyện tình_cảm với bạn gái .",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206569,2780,"Công an tỉnh Bến_Tre ngày 212 đã thực_nghiệm hiện_trường vụ_án giết hai phụ_nữ tại huyện Mỏ_Cày Bắc_hai tuần_trước .",0,1,NULL,NULL,NULL,NULL,NULL,2,NULL
+206570,2780,"Khuya mùng 4 Tết , vợ nhậu say , tiếp_tục về căn chòi vịt để ngủ , Hổ phát_hiện , sau_đó thủ sẵn dao , dùng xe_đạp điện bám_theo đến nơi",1,1,NULL,NULL,NULL,NULL,NULL,2,NULL

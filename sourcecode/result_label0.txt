@@ -1,0 +1,15 @@
+câu,LogisticModel_word2vec,SVC_word2vec,RandomForest_word2vec,ensemble_hard_voting_w2v,ensemble_soft_voting_w2v,LogisticModel_tfidf,SVC_tfidf,RandomForest_tdidf,ensemble_hard_voting_tfidf,ensemble_soft_voting_tfidf
+"Cuốn sách cho độc giả biết nhiều chi tiết trước, trong và sau chiến dịch Điện Biên Phủ, như việc toán quân nhảy dù đầu tiên xuống cánh đồng Mường Thanh đã bị tiểu đoàn 910 (trung đoàn 148) của bộ đội Việt Nam phục kích và diệt 15 lính, bị thương 50 người, hay mỗi chiếc xe tăng M24 Chaffe khi vận chuyển phải tháo rời và cần đến năm máy bay Dakota, hai máy bay Bristol để chuyên chở.",2,2,2,2,2,0,0,2,0,0
+"Độc giả được biết quân Pháp ở Điện Biên Phủ chiếu sáng trong đêm bằng cách dùng đèn từ những chiếc máy bay Dakota mang mật hiệu Luciole (Đom đóm).",0,0,0,0,0,0,0,2,0,0
+"Do nhiều tài liệu được dẫn từ nguồn của tình báo Pháp, có những thông tin khác công bố chính thức hoặc của Quân đội Nhân dân Việt Nam, như cuộc phản công của quân Pháp phá hủy trận địa pháo phòng không 37mm của quân đội Việt Nam do tiểu đoàn trưởng Bigeard chỉ huy diễn ra ngày 28/3/1954 chứ không phải ngày 26/3 như các thông tin trước đó.",1,0,1,0,0,0,0,0,0,0
+"Các tài liệu lưu trữ của quân đội Pháp cũng phản bác ý kiến của nhiều tác giả, trong đó có nhà báo nổi tiếng Bernard Fall, cho rằng trong giai đoạn cuối của chiến dịch, lính dù Pháp đã nổi dậy để "tịch thu" quyền chỉ huy chiến dịch, do mâu thuẫn giữa tướng De Castries và Trung tá Langlais.",1,1,0,0,0,0,0,0,0,0
+"Tác giả Ivan Cadeau cho rằng: "Trên thực tế, De Castries không từ bỏ vị trí chỉ huy".",0,0,1,0,0,1,1,0,1,1
+"Tìm hiểu quyết định đầu hàng của tướng De Castries, nhà sử học Ivan Cadeau nghiên cứu văn bản lưu trữ về cuộc điện đàm cuối cùng của viên tướng này với tướng Cogny.",0,0,0,0,0,0,0,0,0,0
+"Trong bản điện đàm gốc, Cogny nêu rõ việc cấm giơ cờ trắng, điều De Castries nghĩ tới để bảo vệ thương binh.",0,0,0,0,0,0,0,0,0,0
+"Tuy nhiên, chi tiết này đã không còn trong bản ghi được công bố ra công chúng sau đó.",0,0,0,0,0,0,0,0,0,0
+"Tác giả cũng công bố dấu vết chính thức cuối cùng của chiến dịch Điện Biên Phủ, đó là khi toán quân Pháp ở đồi Isabella (Hồng Cúm) không thể thoát khỏi vòng vây của trung đoàn 57, đại đoàn 304.",1,1,1,1,1,0,0,0,0,0
+"Họ gửi bức điện cuối cùng vào 1h50 phút sáng 8/5: "Phá vòng vây thất bại, không thể liên lạc được với các ngài nữa.",0,0,2,0,0,0,0,0,0,0
+"Hết".",0,0,0,0,0,0,1,0,0,0
+"Ivan Cadeau cũng cố gắng đi tìm những bí ẩn của lịch sử, như lý do quân Pháp đặt tên các quả đồi hoặc cứ điểm quanh khu vực Điện Biên Phủ theo tên phụ nữ, như Anne-Marie (Bản Kéo), Isabelle (Hồng Cúm), Gabrielle (Độc Lập), Béatrice (Him Lam), nhưng các tài liệu lưu trữ của quân đội Pháp không giải thích điều này.",1,1,1,1,1,0,1,0,0,1
+"",0,0,0,0,0,0,0,0,0,0
+"",0,0,0,0,0,0,0,0,0,0

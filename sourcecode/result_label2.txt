@@ -1,0 +1,10 @@
+câu,LogisticModel_word2vec,SVC_word2vec,RandomForest_word2vec,ensemble_hard_voting_w2v,ensemble_soft_voting_w2v,LogisticModel_tfidf,SVC_tfidf,RandomForest_tdidf,ensemble_hard_voting_tfidf,ensemble_soft_voting_tfidf
+"Hào_khai đã sát_hại Hoàng_Na và chỉ chỗ phi_tang xác ở giữa lùm_cây trong công_viên Telok Blangah .",1,0,1,0,0,2,1,1,1,1
+"Khi được tìm thấy , thi_thể cô bé cuộn_tròn trong một thùng giấy chiều_dài chỉ hơn 60 cm , bọc trong 9 lớp nilon .",0,0,0,0,0,1,1,0,1,1
+"Trước kết_quả điều_tra trên , Thục Anh vẫn không_thể tin hung_thủ chính là Hào - bạn_thân , hàng_xóm tốt của Na .",0,0,0,0,0,0,0,0,0,0
+"Theo nhà chức_trách , chân_tay Na có vết trói , chết do bị siết cổ làm ngạt_thở .",2,2,2,2,2,2,2,2,2,2
+"Ngày 26/8/2005 , Hào bị tuyên_án có_tội , tử_hình bằng cách treo_cổ .",1,0,2,0,1,0,0,0,0,0
+"Tháng 1/2006 , Hào kháng_án thất_bại .",0,0,0,0,0,0,0,0,0,0
+"Ngày 3/11 cùng năm , hắn bị treo_cổ tại nhà_tù Changi .",2,1,2,2,1,0,0,0,0,0
+"Theo cảnh_sát Singapore , dù động_cơ của Hào là gì cũng không_thể phủ_nhận sự_thật_là hắn đã dâm_ô và sát_hại Na .",1,0,0,0,0,1,1,0,1,1
+"",0,0,0,0,0,0,0,0,0,0

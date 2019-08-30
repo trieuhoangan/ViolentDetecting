@@ -1,0 +1,15 @@
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('giết');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('đâm');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('chém');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('chết');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('chặt');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('tử vong');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('gục');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('sát');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('hiếp dâm');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('hại');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('thủng');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('cưỡng');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('cắt cổ');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('hiếp');
+INSERT INTO `violentCriteria` (`violentWord`) VALUES ('tử');

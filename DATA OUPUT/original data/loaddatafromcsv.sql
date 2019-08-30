@@ -1,0 +1,6 @@
+LOAD DATA INFILE 'D:\Khoa Luan Tot Nghiep/DATA OUPUT/original data/all_data.csv' 
+INTO TABLE sentences
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;

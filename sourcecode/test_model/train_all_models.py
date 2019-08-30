@@ -1,0 +1,13 @@
+import subprocess
+print("\nSVC_with_tf_idf\n")
+subprocess.call(['python','SVC_with_tf_idf.py'])
+print("\nSVC_with_word2vec\n")
+subprocess.call(['python','SVC_with_word2vec.py'])
+print("\nRandomForest_with_word2vec\n")
+subprocess.call(['python','RandomForest_with_word2vec.py'])
+print("\nRandomForest_with_tfidf\n")
+subprocess.call(['python','RandomForest_with_tfidf.py'])
+print("\nlogisticregression_with_tf_idf_sentences\n")
+subprocess.call(['python','logisticregression_with_tf_idf_sentences.py'])
+print("\nlogisticregression_with_word2vec_sentences\n")
+subprocess.call(['python','logisticregression_with_word2vec_sentences.py'])

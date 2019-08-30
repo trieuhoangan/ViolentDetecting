@@ -1,0 +1,117 @@
+id,newspaper_id,content,label,average_label,isTrain,RandomForest_tfidf_label,RandomForest_word2vec_label,LogisticRegression_tfidf_label,LogisticRegression_word2vec_label,Gaussian_tfidf_label,Gaussian_word2vec_label
+2574,84,Cự Giải ( tổng_hợp ) Nguồn  Người đưa_tin   ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3061,97,Một đứa trẻ sinh_ra và lớn_lên thiếu_thốn tình_cảm của cha_mẹ rất dễ bị cuốn vào những tệ_nạn xã_hội ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1794,61,"Hình_ảnh nhân_vật được cho là Mashal Saad al  Bostani , do nhật_báo Thổ Nhĩ_Kỳ Yeni Şafak đăng_tải ( Ảnh  hurriyetdailynews.com )",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2603,86,"Em phải làm_sao bây_giờ   ( Ảnh chụp màn_hình ) Sinh con xong chỉ lo_quanh_quẩn chăm con , lo thân đã cực_khổ , đã dễ trầm_cảm ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3423,106,"Cơ quan điều_tra xác_định nghi_can là Đoàn_Thạch Cương ( SN 1966 , ở quận Hai_Bà_Trưng , Hà_Nội ) , làm_nghề lái_xe tự_do ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2860,92,"Năm 2004 , chỉ 11 năm ngồi_tù , tên Bernard đã được trả_tự_do vì cải_tạo tốt",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3313,102,Khi y vừa rời Tuyên_Quang sang Thái_Nguyên thì bị lực_lượng Cảnh_sát hình sự tỉnhTuyên Quang_bắt giữ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3460,108,"Khoảng 8h ngày 810 , người_dân thôn Phú_Bình nháo_nhác , hoang_mang khi nghe_tiếng chị P.T.N.T( 27 tuổi , trú địa_phương , mẹ cháu Q  ) hốt_hoảng kêu   Bắt_cóc  ",0,0,NULL,0,0,0,0,-1,-1
+2590,86,Không phải tự_nhiên mà các cụ đã đúc_kết ra kinh_nghiệm phải kiêng_cữ đủ_điều sau_sinh ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2343,78,"      Những gì các nạn_nhân cần làm là phải báo cảnh_sát ngay_lập_tức , hãy làm_gì_đó , hãy gọi cho đường_dây nóng chuyên giúp_đỡ những người bị bám đuôi  , bà Sue day dứt",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3075,98,"Thời gian sau , Thế_Anh có đi_học nghề sửa_chữa , lắp_đặt điện nước ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2739,89,"Họ đứng tràn ra đoạn quốc_lộ 13 , leo lên dải phân_cách khiến công_an rất khó_khăn trong việc điều_tiết giao_thông để tránh kẹt xe",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3325,102,"Bào chữa cho hành_vi của mình , Dũng khai rằng y chỉ có_ý định dọa ông Bảo để nạn_nhân trả_lại số_tiền 9 triệu đồng mà Dũng đã đưa_cho trước đó để ông Bảo_làm nhà cho Dũng và Hằng ở_chung với_nhau ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1900,65,"Nạn nhân trong vụ_án là ông Trần_Bình_Trọng ( 53 tuổi , ngụ tỉnh Kiên_Giang )  cha_vợ của Đạt",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1641,54,"Trong những chuyến_đi ấy , ả bắt_đầu lân_la làm_quen , tiếp cận những gia_đình nhiều tiền lắm của ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2470,82,Ông Huy_nói do bảo_vệ trình_độ kém nên cư_xử không đúng,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2302,76,"Ngày 1/2/2018 , UBND xã tổ_chức di dời ngôi_mộ này từ_nghĩa trang Mả Nhịa lên nghĩa_trang xã Thanh_Liệt và ngày 5/2/2018 làm_lễ yên_vị ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2412,81,"Theo báo Trí_thức trẻ , khoảng 2h chiều , Hai được mời lên trụ sở Ủy ban_xã để bắt đầu làm việc ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2533,84,"Có mặt tại bản phồng , đoàn công_tác đã kiểm_tra kỹ lại hiện_trường xảy_ra án_mạng và khu_vực xung quanh",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3658,112,"Theo ghi_nhận của chúng_tôi , vào tháng 12/2014 khi đang ra quán ăn gần nhà mua cơm , ông H  thấy một nam thanh_niên đi xin_việc trong tình trạng nghèo khó",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3530,108,"Khi nghe_tin T  có_thai , người này chối_bỏ ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3565,109,"Vụ việc xảy_ra vào chiều ngày 30/3 , bà Nguyễn_Thị_Ngân ( 56 tuổi , trú tại xã Phúc_Tân , Phổ_Yên , Thái_Nguyên ) , chở theo con_gái là Nguyễn Thị Thanh Nga ( 17 tuổi ) , khi tới đoạn_đường liên_xã thuộc_địa bàn xã Nam_Tiến , Nguyễn Ngọc Tuấn ( 21 tuổi , trú_tại xóm 8 , xã Phúc_Tân , huyện Phổ_Yên ) , ra chặn_đường để nói chuyện với bà Ngân và Nga ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2677,87,Sau_đó chị Yến sinh được một người con_trai đặt_tên là Lô Văn_Trung ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3581,110,Vườn thú Hirakawa mở cửa_vào năm 1972 dưới sự_quản_lý của một công_ty đại_chúng theo hợp_đồng với chính_quyền thành phố,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3670,112,"Nghe ông_chủ nói , Đại lên_gác nằm_nghỉ ngơi",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3617,111,Án phạt dành cho hành_vi của chị là 2 năm tù giam,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3131,99,"Khi   đến trước một tiệm sửa xe Honda thuộc đội 11 , thôn Phú_Hà , bất_ngờ xe mấy_người kia đuổi_theo ép_sát ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3035,97,"Sau nhiều lần đồ đạc trong nhà một đi không trở_lại , vợ_chồng ông Ba_chỉ còn biết lắc_đầu ngao ngán",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2447,82,  Chúng_tôi tác_nghiệp trong hơn 30 phút thì quay trở ra vị_trí để xe ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1466,50,"Một người hàng_xóm của nghi phạm chia_sẻ trên trang Zing.vn cũng nhận_xét rằng  Kiên là người hiền_lành , ngoan_ngoãn , học_giỏi ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2758,89,"Bên_cạnh_đó , trong thời_gian này , bố_mẹ Ánh L  ngăn_cấm con_gái yêu_đương với Dương_để tập_trung việc học_tập , người dì cho_biết thêm",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1879,63,"Cụ thể , 4 trong_số 15 người này bao_gồm cả các bác_sĩ pháp_y , đã đáp chuyến_bay tới Istanbul đúng vào ngày ông Khashoggi mất_tích ",0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3347,102,Hỏi Dũng có còn liên_lạc với Hằng nữa không Dũng cười  Sau phiên_tòa đến nay đã 15 năm nhưng chúng_tôi bặt vô âm_tín ,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2074,70,"Theo tin_tức trên báo Đồng_Nai , ngày 13/9 , Cơ_quan Cảnh_sát điều_tra Công_an tỉnh đã bắt_giữ Nguyễn_Trung_Hiếu ( thường gọi Bình , 31 tuổi , ngụ khu_phố 1 , phường Tân_Tiến , TP.Biên Hòa , Đồng_Nai ) để điều_tra về hành_vi giết người",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2381,79,"Khi đồng_nghiệp tôi giơ điện_thoại lên ghi_hình thì bị ngăn_cản , hất văng  , anh Ba tường_thuật lại",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1799,61,"Nguồn tin của tờ_báo Thổ Nhĩ_Kỳ không hé lộ bất_kỳ chi_tiết nào về vụ tai_nạn giao_thông ở Riyadh , cũng_như vai_trò của Bostani trong cái_chết của Khashoggi",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1409,48,"Có thể nói , Flakka là sự_pha_trộn giữa cocain và ma túy đá , nên mức_độ nguy_hại , tàn_phá cơ_thể của nó đối_với người_sử_dụng thật_sự đáng_sợ hơn các loại ma_túy thông_thường rất nhiều",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2350,78,"Chẳng ngờ gã Trimaan điên_rồ không chấp_nhận sự_thật rằng Alice đã bỏ hắn và bắt_đầu có những hành_động khủng_bố , đe_dọa bạn gái cũ với mức_độ ngày_càng tăng cao",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3635,111,"Cứ nghĩ rằng , cố_gắng chịu_đựng rồi hắn cũng chán mà bỏ_qua nhưng ngờ đâu , hắn vẫn lặng_lẽ theo_dõi con Tú A nhà_tôi và ra_tay tàn độc khi có cơ hội , cướp đi sinh_mệnh con tôi , bà Lê_Thị_Năm , mẹ nạn_nhân cho biết",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2357,78,"Tuy nhiên_phía cảnh_sát lại không có hành_động nào khi Trimaan gọi cho Alice , thậm_chí họ còn khiến cho cô cảm_thấy mình đang lãng_phí nhân_lực của nhà_nước ",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2206,73,"Bọn bên_kia biên giới chỉ tin và giao_hàng cho anh , còn anh_em coi anh như chỗ tin_tưởng thì anh làm thôi ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2643,87,"Sự trùng_hợp khiến không_chỉ riêng anh Khuê mà rất nhiều người_dân ở_đây chột_dạ , họ đặt_ra nhiều giả_thiết xoay_quanh mối liên_hệ giữa nhóm người trên với vụ thảm_sát kinh hoàng",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4578,134,"Để thực_hiện ý_định Sang sử_dụng khẩu súng giả bắn ra lửa làm hung_khí khống_chế , còn Thành cầm búa để đập tử kính ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3310,102,"    Về phía ông Bảo , sau_khi nghe_tiếng quát_tháo ở_nhà ông , hàng_xóm vội chạy qua nhà thì thấy ông này nằm gục bên vũng_máu nên mọi_người vội đưa đi cấp_cứu nhưng nạn_nhân đã không qua_khỏi ",1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3904,121,"Qua lời_khai của Nga , cơ quan công an xác_định hung_thủ gây_ra cái_chết của bà B  chính là Nga",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2271,75,"Sau khi tàn_cuộc , Nghĩa kêu Duyên ra ngoài nói_chuyện vì_sao mấy ngày_nay Duyên không trả_lời điện_thoại và tin_nhắn Nghĩa thì cô_gái trả_lời giận Nghĩa vì quay_lại với người_yêu cũ ",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3232,101,Vì có tình_cảm với nạn_nhân nên Trúc có_ý định quan_hệ thì bị chị này từ_chối nên ra_tay sát hại,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1059,39,"Thế rồi , cái ác phải đền_tội , với những bằng_chứng pháp_y với độ_tin_cậy cao , vụ_án của 32 năm trước mà tên Bishop nghĩ rằng có_thể thoát_tội đã được lật lại , một_lần nữa y phải đối_diện với chính mình trước vành móng ngựa",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3843,118,"Theo tin tức báo Tiền_Phong , chiều 93 , Cơ_quan CSĐT Công an tỉnh Đắk Nông ra quyết_định tạm_giữ hình_sự đối_với Điêu Văn_Kiệm ( SN 1973 ) , trú buôn K62 , xã Đắk Drô , huyện Krông Nô để điều_tra , làm_rõ về hành_vi giết người ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3716,113,"Ngày 108 , một nguồn_tin cho_biết , Cơ_quan CSĐT Công_an TP.Hà Nội đã bắt_khẩn_cấp đối_với ông Lê_Trung_Kiên , Phó trưởng_ban tổ_chức Quận ủy Cầu Giấy để điều_tra liên_quan đến cái_chết của ông Kiều Hồng_Thành ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2970,96,"Một lúc sau , giữa chị Vân và người phụ_nữ này xảy_ra ẩu_đả với_nhau ",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1609,53,"   Mỹ , Thổ Nhĩ_Kỳ và Ả rập Saudi đang phối_hợp hành_động để đạt được một thỏa_thuận tay ba nhằm giảm_bớt căng_thẳng của vụ giết_hại nhà_báo Khashoggi",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2265,75,"Khi Nghĩa cùng nhóm_bạn kéo_đến giải_quyết mâu_thuẫn , Duyên ra căn ngăn thì bị Nghĩa tát một cái trúng vào mặt ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2210,73,Phụng gút quả_quyết với chúng_tôi về những giá khác_nhau của súng,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1931,67,"Sau hai ngày đưa Vụ_án gây chấn_động dư_luận xảy_ra tại thẩm mỹ viện ( TMV ) Cát_Tường ra xét_xử công_khai ( 4 và 512 ) , TAND TP.Hà Nội đã tuyên phạt bị_cáo Nguyễn_Mạnh_Tường 14 năm tù về tội Vi_phạm_quy_định về khám_bệnh , chữa_bệnh , sản_xuất , pha_chế_thuốc , cấp_phát thuốc , bán thuốc hoặc dịch_vụ y tế khác , 5 năm tù về tội Xâm_phạm thi_thể , mồ_mả , hài_cốt , tổng_hợp hình_phạt là 19 năm tù",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1752,58,"Còn theo ông Lê_Quang_Hùng , Chủ_tịch Hội_đồng_Thi_hành án tỉnh Long An , sau khi hết thời_gian tạm_hoãn thi_hành án , đến_ngày 4/1/2015 tới đây , các cơ_quan trung_ương bao_gồm TAND Tối_cao và KSND Tối_cao sẽ báo_cáo lại vụ việc xem_xét đơn khiếu_nại của gia_đình Hồ_Duy_Hải với Chủ_tịch nước ",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2227,73,"Bắt kho súng tự chế khủng của băng_nhóm Cường tóc dài Vào_lúc 3h ngày 2/12/2014 , tại khu_vực cánh_đồng thuộc xã Vân Hà ( huyện Đông_Anh , TP.Hà Nội ) trinh_sát C45 , Bộ Công_an phục_kích , bắt quả tang Lý_Mạnh_Lực ( SN 1967 , trú tại huyện Yên_Thế , tỉnh Bắc_Giang ) và Nguyễn Văn Cường ( SN 1970 , trú_tại TP.Bắc Ninh , tỉnh Bắc_Ninh ) cùng một số đối_tượng đi trên xe taxi , đang vận_chuyển 1 khẩu súng dạng AK , 1 súng dạng Carbine , 1 súng báng gấp và 81 viên đạn",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4434,130,Tử_tù từng giết 2 bé_gái gây xôn_xao dư_luận tại Đắk Lắk đã khai liên_quan đến vụ một giết_người khác khi được nói lời_cuối_cùng trước_khi bị tử_hình ,1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4250,125,"Những người còn_lại bị tấn_công do cản_trở , chống trả lại hành_vi của hung thủ",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3071,98,"Điều đáng nói , kẻ thủ_ác lại chính là người đã từng theo_đuổi , tán_tỉnh yêu_đương nạn_nhân trong_suốt một thời_gian dài",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1320,45,"Liên quan đến vụ_án , trước_đó , TAND tỉnh Bắc_Giang đã ra quyết định trả hồ_sơ để điều_tra bổ_sung đối_với vụ_án Giết_người , Cướp tài sản",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2857,92,"Khi chuẩn_bị phải siết cổ con_gái út thêm lần nữa , tên Bernard dường_như không_thể đối_mặt với tội_ác kinh_tởm của mình nên đã gục đầu khóc tức tưởi",1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1020,38,"Nhiều người ngỡ_ngàng , không hiểu tại_sao mâu_thuẫn gia_đình lại có_thể dẫn đến bi_kịch đau_lòng đến vậy",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+754,30,"Nạn nhân là chị Lâm_Thị_Mến ( 28 tuổi , trú cùng thôn ) ",1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3605,111,Khả_năng nạn_nhân tử vong vì mất_máu cấp,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1869,63,Giới_chức Thổ Nhĩ_Kỳ nhận_định đây là bằng_chứng cho_thấy nhóm đặc_vụ Ả rập Xê út đã chuẩn_bị từ trước cho kế_hoạch sát_hại ông Khashoggi,1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5796,176,"Tăng dần theo cấp độ , từ những lời hỏi_thăm , đến liên_tục bị khủng_bố bằng các lời dọa_nạt chặt chân , chặt tay hay giết cả họ nếu không đem tiền tới trả ",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+4837,144,"Theo_đó , khi cùng vợ đến làm_cỏ trên nền nhà bà Thảo đã cho , thấy Tùng đang nằm trên võng trước nhà , Nhỏ cầm dao xông vào chém liên_tiếp 3 nhát vào đầu làm Tùng tử vong tại chỗ",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+7400,227,"Đến đoạn vắng_người , hành_khách 31 tuổi rút dao dọa giết tài_xế rồi cướp xe_máy , điện_thoại , 700",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+43561,1505,"Chị kể , hôm_qua ( 211 ) , trong_lúc đưa con_gái đi_học chị thấy chiếc xe_tải tăng_tốc rồi mất lái lao_vào đoàn người
+'",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+30862,1179,"Hiện_trường vụ đâm xe làm 1 người_chết
+",2,2,1,2,2,2,2,-1,-1
+51480,1702,"Hút xong điếu_thuốc , Tuyền quay trở_lại phòng_ngủ dùng tay sờ vào người cháu Tường , thấy cháu không phản_ứng , lúc_này Tuyền chắc_chắn rằng bé trai 4 tuổi đã tử_vong
+",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+112613,1748,"Sau_đó , Quân đã vào phòng lấy_khẩu súng dạng colt xoay bắn anh Thành khiến nạn_nhân tử vong.Quá trình điều_tra , Quân không có biểu_hiện của người mắc_bệnh tâm_thần ,   tiếp_thu và trả_lời chính_xác , đúng trọng_tâm các câu_hỏi của điều_tra_viên , cán_bộ Trại_tạm_giam số 1 Công_an TP Hà_Nội và bạn giam cùng buồng.Ngày 317 và ngày 982018 , Trần_Đức_Quân cùng các đối_tượng liên_quan bị TAND TP Hà_Nội đưa_ra xét_xử sơ_thẩm .
+",2,2,1,2,2,2,2,-1,-1
+2476,83,Mười tuổi đã bỏ_nhà đi bụi cho_đến lúc trưởng_thành mới về quê được vài tháng thì Nam đã gây_ra 3 vụ giết_người cướp tài_sản gây chấn động miền Tây ,2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+31448,1196,Khi mọi_người xông vào thì thấy trên cổ chị_vợ bầm tím nên nghi_ngờ Hòa đã bóp_cổ vợ,2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+114405,1843,"Cả hai có quan_hệ bình_thường và đều rất hiền.Nghi can Hiếu và nạn_nhân Kpă H ' ven chụp chung với_nhau nhiều bức hìnhNgười dân tại địa_phương cũng xác_nhận điều này , khi xảy_ra sự_việc khiến ai cũng bất ngờ.Trước đó , sáng_ngày 312 , Bùi_Chí_Hiếu mang theo 2 khẩu súng đi_vào UBND phường Đoàn_Kết bắn thị uy.Nghi can Hiếu đã khống_chế chị Kpă H ' ven đưa_vào hội_trường , uy_hiếp con_tin , không cho lực_lượng vào vận_động , giải_cứu và liên_tiếp nổ_súng , bắn chỉ_thiên đe dọa.Sau đó y bắn chết nạn_nhân và tự_sát bằng súng nhưng không chết.Công an thị_xã Ayun Pa xác_định , Hiếu đã bắn 6 phát_súng , loại súng_trường lấy ở Ban CHQS phường Đoàn Kết.Theo Trùng_Dương ( VietNamNet )
+",2,2,1,2,2,2,2,2,2
+5229,159,Phát  đại_gia  nhiều lần cho cháu vợ xem phim đồi_trụy rồi xâm_hại dẫn đến bé_gái mang thai và sinh con,2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+2576,85,"   Tri_thức trực_tuyến và Dân Việt cho hay theo hồ_sơ , cuối năm 2001 , trong_lúc ẩu_đả , Thơm đã cùng đồng_bọn chém tử_vong ông   Lê_Thiên_Hoa ( ngụ tỉnh Bình_Dương ) do mâu_thuẫn cá nhân",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+33042,1238,"Sau_đó , Nh dùng dao gây thương_tích cho nạn_nhân trước_khi bỏ_về_nhà",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+7813,243,"Việc một cầu_thủ bóng_đá trở_thành người mẫu trình_diễn , quảng_cáo không_còn xa_lạ trên thế_giới ",2,0,1,NULL,NULL,NULL,NULL,NULL,NULL
+117691,2038,"Tức_giận vì nhân_tình bị chồng cũ đánh khi đòi_lại đứa_con chung , nam thanh_niên 22 tuổi đã chạy vào phòng lấy 2 con dao đuổi chém anh Nhật .
+",2,2,1,2,2,2,2,-1,-1
+40905,1436,"Cụ_thể , công_tác thu_thập dấu_vết tại hiện_trường cho_thấy , nạn_nhân có vết đâm trên người , có máu ,
+'",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+51935,1715,"Kỳ đột_nhập_vào nhà_hàng xóm phát_hiện bé_gái đang ngủ nên khống_chế doạ_giết rồi hiếp_dâm
+",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+43371,1501,"Theo_đó , cơ_quan chức_năng phát_hiện trên đầu chị L ( nạn_nhân ) có 1 vết_thương , có dấu_hiệu tụ_máu , đồng_thời chị L cũng mất 1 chiếc răng và có một_vài vết_bầm tím trên cơ_thể , những bộ_phận khác đều bình_thường
+'",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+3112,99,"Lúc_đó , Q  tìm_cách thoát_khỏi xe_máy , nhưng họ xông vào chém túi_bụi vào Q ",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+46826,1585,"( Ảnh Pháp_luật TPHCM ) Theo VnEpress , nạn_nhân bị một vết_thương nặng ở cổ , được người_dân đưa đi cấp_cứu
+'",2,2,1,2,2,2,2,-1,-1
+46817,1585,"bỏ_chạy được một quãng thì bị nhóm nói trên đuổi_kịp , dùng hung_khí tấn_công trọng_thương , gục tại_chỗ
+'",2,2,1,2,2,2,2,2,2
+49289,1644,"chết vì bị ngạt do thắt_cổ
+'",2,2,1,2,2,2,2,2,2
+120432,2219,"Tú dùng dao đâm nhiều nhát vào người Bình khiến nạn_nhân chết tại_chỗ .
+",2,2,1,2,2,2,2,2,2
+25060,738,"Chúng_tôi đã thống_nhất giấu gia_đình L và không đưa_ra pháp_luật , nói là bị ngã vào con dao ",2,2,1,2,2,2,2,-1,-1
+5731,175,Trong lúc bỏ_chạy Toại quay_lại ném con dao trúng vào bụng của ông Tao ,2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+9531,299,"Mỗi_lần rượu vào anh_ta lôi hết tổ_tông nhà_tôi ra chửi , đấm_đá tôi như điên ",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+5113,154,"Rằm tháng_sau , hai sát_thủ tiếp_tục đến Miếu Thần để ra_tay sát_hại anh Trí",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+42047,1466,"Dù đưa đi cấp_cứu nhưng do vết_thương quá nặng , nam_sinh lớp 10 đã tử_vong
+'",2,1,1,NULL,NULL,NULL,NULL,NULL,NULL
+47276,1594,"Bực_tức vì dở cuộc_vui , Long_ma lập_tức rút_khẩu súng_ngắn K54 trong người đánh_vào gáy nhân_viên an_ninh quán bar và dí nòng_súng vào_đầu đe_dọa mày muốn tao bắn vỡ đầu mày không Sợ_hãi , nhân_viên an_ninh quán bar quỳ xuống đất xin thì Long ma bắn 1 phát vào cầu_thang quán bar rồi cùng nhóm_bạn đi_ra cửa quán bar để về
+'",2,2,1,2,2,2,2,2,2
+32773,1232,Khi mọi_người phá_cửa nhà_tắm xông vào thì thấy cháu bé bị   cắt_cổ   đã tử_vong,2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+50737,1686,"Đặc biệt , đáng chú_ý là trường_hợp của nữ_sinh Ngô Thị Su Sal ( 21 tuổi , quê Kiên_Giang ) khi được đưa_vào cấp_cứu đã bị_đứt lìa cánh_tay_trái",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+5413,164,"Xác_định , đây là một vụ_án hiếp_dâm , giết_người nghiêm_trọng , Công_an huyện Than_Uyên đã báo_cáo sự_việc lên phòng Cảnh_sát hình_sự ( PC02 ) Công_an tỉnh Lai_Châu để tiến_hành phối_hợp khám_nghiệm hiện_trường , điều_tra truy_bắt hung thủ",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+7507,231,"   Chị Thanh đang đi một_mình trên đường thì nam thanh_niên đeo_kính , mặc áo xanh_rêu , đi xe_máy xuất_hiện , dùng dao đâm nhiều nhát",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
+40627,1430,"Bị tấn_công , Độ rút trong cặp_sách ra con dao_bầu , đâm về phía_Hiếu
+'",2,2,1,NULL,NULL,NULL,NULL,NULL,NULL
